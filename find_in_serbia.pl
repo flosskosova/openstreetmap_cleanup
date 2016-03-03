@@ -16,13 +16,7 @@ sub process {
 	    $d=$_;
 	}   
 	
-	if (/k=\"is_in:country\"\s+v=\"Serbia\"/) {
-	    $seen{$url}=$url;	    
-	}	
-	elsif (/k=\"is_in\"\s+v=\"Serbia\"/) {
-	    $seen{$url}=$url;	    
-	}
-	elsif (/k=\"is_in\"\s+v=\"Srb\"/) {
+	if (/k=\"is_in(:country)\"\s+v=\"(Serbia|Србија|Srbija)\"/) {
 	    $seen{$url}=$url;	    
 	}	
 	
