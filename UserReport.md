@@ -65,9 +65,9 @@
       3 "bmog" changeset
       3 "DenisJu" changeset
       3 "hofoen" changeset
-      3 "kmilos" changeset
       4 "fpm#" changeset
       4 "Helmchen42" changeset
+      4 "kmilos" changeset
       4 "tbicr" changeset
       5 "4rch" changeset
       5 "KartoGrapHiti" changeset
@@ -109,11 +109,11 @@
      17 "msylka" changeset
      18 "JayCBR" changeset
      19 "borces" changeset
-     19 "James Michael DuPont" changeset
      19 "NJAZI RAMADANI" changeset
      19 "ruph" changeset
      21 "armandalex" changeset
      25 "easyX" changeset
+     25 "James Michael DuPont" changeset
      28 "Lekos" changeset
      29 "rando67" changeset
      31 "Altin" changeset
@@ -149,8 +149,8 @@
     208 "SunCobalt_import" changeset
     255 "SU-47" changeset
     301 "malenki" changeset
-    317 "venerdi" changeset
     374 "bdiscoe" changeset
+    405 "venerdi" changeset
     440 "ValdrinGashi" changeset
     486 "enis" changeset
     546 "mpele" changeset
