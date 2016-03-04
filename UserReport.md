@@ -3,7 +3,7 @@
       1 "babskast" changeset
       1 "Bejta" changeset
       1 "brogo" changeset
-      1 "CiaránMooney" changeset
+      1 "bsalihu" changeset
       1 "deam93" changeset
       1 "DFae" changeset
       1 "enco" changeset
@@ -22,9 +22,9 @@
       1 "Marcussacapuces91" changeset
       1 "MonnaBerisha" changeset
       1 "Montenegro" changeset
-      1 "msylka" changeset
       1 "navmaps_eu" changeset
       1 "ndrichimi" changeset
+      1 "nikolakis" changeset
       1 "Pedja" changeset
       1 "petrithoxha" changeset
       1 "Poprawiacz" changeset
@@ -35,19 +35,24 @@
       1 "railway_fan" changeset
       1 "sebastiansokoli" changeset
       1 "Somarg" changeset
+      1 "SomeoneElse_Revert" changeset
       1 "thetornado76" changeset
       1 "trump98" changeset
       1 "Val Shala" changeset
       1 "wheelmap_visitor" changeset
       1 "Whitelion808" changeset
       1 "wohnung058" changeset
+      1 "Томица" changeset
       2 "al-caka" changeset
       2 "Aleks-Berlin" changeset
       2 "AlketR" changeset
       2 "bobimkd" changeset
       2 "ChrissW-R1" changeset
+      2 "Christoph Lotz" changeset
+      2 "CiaránMooney" changeset
       2 "daganzdaanda" changeset
       2 "danidoedel" changeset
+      2 "filu" changeset
       2 "Florim Mehmeti" changeset
       2 "gluvce" changeset
       2 "kucicy" changeset
@@ -70,8 +75,10 @@
       5 "Maarten Deen" changeset
       5 "SunCobalt" changeset
       6 "glibbertorsten" changeset
+      6 "Gums" changeset
       6 "kosovastar" changeset
       6 "Mecki" changeset
+      6 "venharsylka" changeset
       6 "zombieyu" changeset
       7 "didier2020" changeset
       7 "FvGordon" changeset
@@ -87,7 +94,6 @@
      10 "Ori952" changeset
      10 "Peki1980" changeset
      11 "Foska" changeset
-     12 "Altin" changeset
      13 "OSMF Redaction Account" changeset
      13 "Qamil Plakaj" changeset
      14 "Batareikin" changeset
@@ -95,20 +101,24 @@
      14 "Jkos" changeset
      15 "dromedar" changeset
      15 "inthenameofmine" changeset
-     15 "James Michael DuPont" changeset
      16 "axo" changeset
      16 "Christophorus" changeset
+     16 "pitscheplatsch" changeset
      16 "Константин Коцев" changeset
      17 "Amaroussi" changeset
-     17 "JayCBR" changeset
+     17 "msylka" changeset
+     18 "JayCBR" changeset
      19 "borces" changeset
+     19 "James Michael DuPont" changeset
      19 "NJAZI RAMADANI" changeset
      19 "ruph" changeset
      21 "armandalex" changeset
-     22 "Arianit" changeset
      25 "easyX" changeset
      28 "Lekos" changeset
      29 "rando67" changeset
+     31 "Altin" changeset
+     31 "Arpagjiki" changeset
+     37 "Arianit" changeset
      37 "woodpeck_repair" changeset
      41 "e8aga9f" changeset
      41 "srividya_c" changeset
@@ -141,20 +151,20 @@
     301 "malenki" changeset
     317 "venerdi" changeset
     374 "bdiscoe" changeset
-    392 "ValdrinGashi" changeset
+    440 "ValdrinGashi" changeset
     486 "enis" changeset
     546 "mpele" changeset
     554 "Yll Ferizi" changeset
     651 "yfrtx" changeset
-    676 "arhijakon" changeset
+    679 "arhijakon" changeset
    1016 "pyram" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
    1634 "__________AC26__________" changeset
    2151 "Aldrin   C" changeset
    2208 "Hendrikklaas" changeset
-   2889 "BesfortGuri" changeset
-   4706 "kragon77" changeset
+   2922 "BesfortGuri" changeset
+   4707 "kragon77" changeset
    5457 "corpsegroom" changeset
-   8082 "RIVERLIM" changeset
+   8083 "RIVERLIM" changeset
   27250 "MarcKosova" changeset
