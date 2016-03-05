@@ -18,7 +18,6 @@
 <p>Ambulanca Specialistike për femijë	https://www.openstreetmap.org/node/1694605480</p>
 <p>Ambulanta Shëndetsore Kçiq i Madh	https://www.openstreetmap.org/way/244750985</p>
 <p>Ambulanta Suharekë	https://www.openstreetmap.org/node/1191341197</p>
-<p>Ambulanta e Mjeksisë Familjare	https://www.openstreetmap.org/node/1442335381</p>
 <p>Anton Çetta	https://www.openstreetmap.org/way/191459333</p>
 <p>Aqarevë	https://www.openstreetmap.org/node/4000356431</p>
 <p>Arbanë	https://www.openstreetmap.org/node/1846624243</p>
@@ -681,7 +680,6 @@
 <p>Primary School Malësia	https://www.openstreetmap.org/node/454698960</p>
 <p>Prishtinë	https://www.openstreetmap.org/node/2885136501</p>
 <p>Prishtinë-Gjilan	https://www.openstreetmap.org/way/376398687</p>
-<p>Priština - Niš Railway	https://www.openstreetmap.org/way/135036433</p>
 <p>Proni i Škodres	https://www.openstreetmap.org/way/391014779</p>
 <p>Prčin brijeg	https://www.openstreetmap.org/node/3941940788</p>
 <p>Pus i Škalt	https://www.openstreetmap.org/node/3941866842</p>
@@ -1153,7 +1151,6 @@
 <p>Železnička stanica Sočanica	https://www.openstreetmap.org/way/186659414</p>
 <p>Železnička stanica Valač	https://www.openstreetmap.org/way/186659416</p>
 <p>Žljeb	https://www.openstreetmap.org/way/393003220</p>
-<p>Ђеравица	https://www.openstreetmap.org/node/26862768</p>
 <p>Јабланички округ	https://www.openstreetmap.org/relation/2117027</p>
 <p>Јажинце	https://www.openstreetmap.org/node/458894643</p>
 <p>Јариње	https://www.openstreetmap.org/node/2011367158</p>
@@ -1173,7 +1170,6 @@
 <p>Град Нови Пазар	https://www.openstreetmap.org/relation/2867383</p>
 <p>Град Скопје	https://www.openstreetmap.org/relation/2439740</p>
 <p>Гркајска река	https://www.openstreetmap.org/node/448741254</p>
-<p>Доморовце	https://www.openstreetmap.org/node/1905560455</p>
 <p>Доње Кормињане	https://www.openstreetmap.org/node/1905560458</p>
 <p>Дренска река	https://www.openstreetmap.org/way/186659420</p>
 <p>Железничка станица Лешак	https://www.openstreetmap.org/way/186659410</p>
@@ -1183,10 +1179,8 @@
 <p>Зубин Поток	https://www.openstreetmap.org/node/2183422140</p>
 <p>Ибар	https://www.openstreetmap.org/way/391577946</p>
 <p>Исток	https://www.openstreetmap.org/way/33321143</p>
-<p>Каменичка река	https://www.openstreetmap.org/node/453333259</p>
 <p>Кодра Фура	https://www.openstreetmap.org/node/1986972233</p>
 <p>Кормињан	https://www.openstreetmap.org/node/3195863010</p>
-<p>Косовска Митровица	https://www.openstreetmap.org/node/4024245637</p>
 <p>Косовска Митровица - Подујево	https://www.openstreetmap.org/way/108537858</p>
 <p>Лепенец	https://www.openstreetmap.org/relation/5900732</p>
 <p>Лепосавић	https://www.openstreetmap.org/node/448739405</p>
@@ -1229,7 +1223,6 @@
 <p>Танушевци	https://www.openstreetmap.org/node/2066620566</p>
 <p>Топлички округ	https://www.openstreetmap.org/relation/2117109</p>
 <p>Трлица	https://www.openstreetmap.org/node/1449748547</p>
-<p>Тромеђа	https://www.openstreetmap.org/node/3642829984</p>
 <p>Хидроелектрана Диканце	https://www.openstreetmap.org/node/1794568442</p>
 <p>Централна Србија	https://www.openstreetmap.org/relation/1658166</p>
 <p>Црквина - Небеске столице	https://www.openstreetmap.org/node/1356885949</p>

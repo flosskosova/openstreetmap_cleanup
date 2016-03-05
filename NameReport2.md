@@ -50,7 +50,6 @@
 <p>Dëshmorët e Lirisë	https://www.openstreetmap.org/way/389459769</p>
 <p>E Shalës	https://www.openstreetmap.org/way/229657910</p>
 <p>Epopeja e UÇK-së	https://www.openstreetmap.org/way/389460227</p>
-<p>Europastraßen	https://www.openstreetmap.org/relation/2063181</p>
 <p>Fabrika e Feronikelit në Drenas	https://www.openstreetmap.org/way/196695542</p>
 <p>Fabrika e Radiatorëve	https://www.openstreetmap.org/way/401156924</p>
 <p>Feriz Guri &amp;Vëllezërit Çaka	https://www.openstreetmap.org/way/395704614</p>
@@ -59,7 +58,7 @@
 <p>Fushë Kosovë	https://www.openstreetmap.org/node/448554221</p>
 <p>Gajrë	https://www.openstreetmap.org/node/448707213</p>
 <p>Gaçkë	https://www.openstreetmap.org/node/3936987323</p>
-<p>Gjakovë	https://www.openstreetmap.org/relation/2617896</p>
+<p>Gjakovë	https://www.openstreetmap.org/node/1530391541</p>
 <p>Gjimnazi &quot;Skënderbeu&quot;	https://www.openstreetmap.org/way/394976086</p>
 <p>Gracë	https://www.openstreetmap.org/node/3870859067</p>
 <p>Graçanicë	https://www.openstreetmap.org/node/2017956737</p>
@@ -68,7 +67,7 @@
 <p>Guri i Shpumë	https://www.openstreetmap.org/node/3937013902</p>
 <p>Gurëz	https://www.openstreetmap.org/node/2107256277</p>
 <p>Halim Çaka	https://www.openstreetmap.org/way/395679475</p>
-<p>Hamëz Jashari	https://www.openstreetmap.org/way/387706873</p>
+<p>Hamëz Jashari	https://www.openstreetmap.org/way/387707259</p>
 <p>Hekurudha Prishtinë - Fushë Kosovë	https://www.openstreetmap.org/way/195201001</p>
 <p>Hekurudha Prishtinë - Nish	https://www.openstreetmap.org/way/243035857</p>
 <p>Hodžin ravan	https://www.openstreetmap.org/way/391712699</p>
@@ -91,9 +90,9 @@
 <p>Katedralja Krishti Shpëtimtar	https://www.openstreetmap.org/way/124951399</p>
 <p>Katun Bogićevica	https://www.openstreetmap.org/node/3949473997</p>
 <p>Katun Muhaomerovića	https://www.openstreetmap.org/node/3949477742</p>
-<p>Kaçanik	https://www.openstreetmap.org/node/1836566449</p>
+<p>Kaçanik	https://www.openstreetmap.org/node/3962446463</p>
 <p>Kaçanik i Vjetër	https://www.openstreetmap.org/node/448711415</p>
-<p>Kaçanik-Ferizaj	https://www.openstreetmap.org/way/393051224</p>
+<p>Kaçanik-Ferizaj	https://www.openstreetmap.org/way/90636930</p>
 <p>Kaçanik-Ferizaj-Prishtinë	https://www.openstreetmap.org/node/3992603033</p>
 <p>Kaçanik-Hani i Elezit-Shkup	https://www.openstreetmap.org/node/3992603032</p>
 <p>Klinë	https://www.openstreetmap.org/node/430705589</p>
@@ -135,7 +134,7 @@
 <p>Maja e Ćunđeve	https://www.openstreetmap.org/node/3955456191</p>
 <p>Maja Šis	https://www.openstreetmap.org/node/3955567423</p>
 <p>Malishevë	https://www.openstreetmap.org/node/1788921587</p>
-<p>Malji Nečinat	https://www.openstreetmap.org/way/382249156</p>
+<p>Malji Nečinat	https://www.openstreetmap.org/node/3941596453</p>
 <p>Malji ćeka	https://www.openstreetmap.org/way/392318881</p>
 <p>Martirët Bushi	https://www.openstreetmap.org/way/389447765</p>
 <p>Martirët e Dermjakut	https://www.openstreetmap.org/way/389449732</p>
@@ -143,7 +142,7 @@
 <p>Mishtorja Velekincë	https://www.openstreetmap.org/way/392447156</p>
 <p>Mitrovicë	https://www.openstreetmap.org/node/2093601140</p>
 <p>Mjakë	https://www.openstreetmap.org/node/3958560466</p>
-<p>Morinë	https://www.openstreetmap.org/node/1500786985</p>
+<p>Morinë	https://www.openstreetmap.org/node/1905639937</p>
 <p>Muçibabë	https://www.openstreetmap.org/node/3458978670</p>
 <p>Mërgimtarët	https://www.openstreetmap.org/way/389444904</p>
 <p>Nepolë	https://www.openstreetmap.org/node/3924380399</p>
@@ -188,7 +187,7 @@
 <p>Rruga Muhaxhirët	https://www.openstreetmap.org/way/230439003</p>
 <p>Rruga Preshevës	https://www.openstreetmap.org/way/230227411</p>
 <p>Rruga e Livadhëve	https://www.openstreetmap.org/way/230438991</p>
-<p>Rruga e Pejës	https://www.openstreetmap.org/way/367621273</p>
+<p>Rruga e Pejës	https://www.openstreetmap.org/way/283193104</p>
 <p>Rruga e Xhamisë së Vjetër	https://www.openstreetmap.org/way/230439018</p>
 <p>Rruga për Gjeravicë	https://www.openstreetmap.org/way/71916505</p>
 <p>Rruga për Samadrexhë	https://www.openstreetmap.org/way/198079989</p>
@@ -199,14 +198,14 @@
 <p>SHMP “Feriz Guri e Vëllezërit Çaka”	https://www.openstreetmap.org/way/372128749</p>
 <p>SHMP “Feriz Guri e Vëllezërit Çaka”  Voskopoja	https://www.openstreetmap.org/way/372129229</p>
 <p>Sach Caffé	https://www.openstreetmap.org/node/3886361984</p>
-<p>Sadik Çaka	https://www.openstreetmap.org/way/396108574</p>
+<p>Sadik Çaka	https://www.openstreetmap.org/way/387892182</p>
 <p>Samadrexhë	https://www.openstreetmap.org/node/3901232265</p>
 <p>Sfarçak i Epërm	https://www.openstreetmap.org/node/3901197846</p>
 <p>Sfarçak i Poshtëm	https://www.openstreetmap.org/node/3901240280</p>
 <p>Sheshi i Lirisë	https://www.openstreetmap.org/way/143497245</p>
 <p>Shkolla Fillore &quot;Dëshmorët e Bobit&quot;	https://www.openstreetmap.org/way/372127516</p>
 <p>Shkugëz	https://www.openstreetmap.org/way/97192369</p>
-<p>Shoqata e Invalidëve &quot; UÇK&quot;	https://www.openstreetmap.org/way/395173305</p>
+<p>Shoqata e Invalidëve &quot; UÇK&quot;	https://www.openstreetmap.org/node/3761916691</p>
 <p>Shpëtim Robaj	https://www.openstreetmap.org/way/219357198</p>
 <p>Shqipëri-Kosovë	https://www.openstreetmap.org/node/2507673529</p>
 <p>Shqipëria	https://www.openstreetmap.org/relation/53292</p>
@@ -248,12 +247,11 @@
 <p>Ura e Sitnicë	https://www.openstreetmap.org/way/244214892</p>
 <p>Ura e Sitnicës	https://www.openstreetmap.org/way/381004586</p>
 <p>Ushtria Çlirimtare e Kosovës	https://www.openstreetmap.org/way/372141255</p>
-<p>UÇK	https://www.openstreetmap.org/way/371629813</p>
+<p>UÇK	https://www.openstreetmap.org/way/39518673</p>
 <p>Vaganička gora	https://www.openstreetmap.org/way/391018707</p>
 <p>Varrezat e Dëshmorëve	https://www.openstreetmap.org/way/396435300</p>
 <p>Varrezat e Fushë Kosovës	https://www.openstreetmap.org/way/244520940</p>
 <p>Varrezat e Kaçanikut	https://www.openstreetmap.org/way/394989020</p>
-<p>Vasilevë	https://www.openstreetmap.org/node/3610626569</p>
 <p>Velekincë	https://www.openstreetmap.org/node/3956710251</p>
 <p>Vendkalimi kufitar &quot;Dheu i Bardhë&quot;	https://www.openstreetmap.org/way/396799660</p>
 <p>Vendkalimi kufitar Kullë	https://www.openstreetmap.org/way/192785068</p>
@@ -267,7 +265,7 @@
 <p>Verrezat e fshatit Velekincë	https://www.openstreetmap.org/way/392450259</p>
 <p>Vila Oxygen - Kuqishtë - Rugovë	https://www.openstreetmap.org/node/3984369530</p>
 <p>Vranishtë	https://www.openstreetmap.org/way/223857576</p>
-<p>Vëllezërit Çaka	https://www.openstreetmap.org/way/391916362</p>
+<p>Vëllezërit Çaka	https://www.openstreetmap.org/way/376844931</p>
 <p>Vërben	https://www.openstreetmap.org/node/3958563401</p>
 <p>Xhamia e Fshatiti Velekincë	https://www.openstreetmap.org/way/280199570</p>
 <p>Xhamia e Fushë Kosovës	https://www.openstreetmap.org/way/387609795</p>
