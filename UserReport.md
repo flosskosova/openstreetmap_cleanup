@@ -1,4 +1,5 @@
       1 "abajrami" changeset
+      1 "andi2911" changeset
       1 "ardiana" changeset
       1 "babskast" changeset
       1 "Bejta" changeset
@@ -67,6 +68,7 @@
       4 "fpm#" changeset
       4 "Helmchen42" changeset
       4 "kmilos" changeset
+      4 "Meiyer" changeset
       4 "tbicr" changeset
       5 "4rch" changeset
       5 "KartoGrapHiti" changeset
@@ -115,8 +117,8 @@
      19 "ruph" changeset
      21 "armandalex" changeset
      25 "easyX" changeset
-     28 "James Michael DuPont" changeset
      28 "Lekos" changeset
+     29 "James Michael DuPont" changeset
      29 "rando67" changeset
      31 "Altin" changeset
      31 "Arpagjiki" changeset
@@ -152,7 +154,7 @@
     301 "malenki" changeset
     374 "bdiscoe" changeset
     405 "venerdi" changeset
-    440 "ValdrinGashi" changeset
+    441 "ValdrinGashi" changeset
     486 "enis" changeset
     546 "mpele" changeset
     554 "Yll Ferizi" changeset
@@ -167,5 +169,5 @@
    2922 "BesfortGuri" changeset
    4707 "kragon77" changeset
    5457 "corpsegroom" changeset
-   8083 "RIVERLIM" changeset
-  25521 "MarcKosova" changeset
+   8091 "RIVERLIM" changeset
+  25551 "MarcKosova" changeset

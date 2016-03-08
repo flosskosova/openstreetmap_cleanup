@@ -40,6 +40,7 @@
 <p>Bajnicë	https://www.openstreetmap.org/node/3761521819</p>
 <p>Bajraktar Türbe	https://www.openstreetmap.org/node/2020296802</p>
 <p>Bajram Thaçi	https://www.openstreetmap.org/way/243386423</p>
+<p>Bajçinovc	https://www.openstreetmap.org/node/4043753259</p>
 <p>Bajë	https://www.openstreetmap.org/node/371567646</p>
 <p>Balincë	https://www.openstreetmap.org/node/3431449336</p>
 <p>Ballancë	https://www.openstreetmap.org/node/3235777567</p>
@@ -85,10 +86,6 @@
 <p>Bllatë	https://www.openstreetmap.org/node/3235809383</p>
 <p>Boge - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Bogë	https://www.openstreetmap.org/node/3563254193</p>
-<p>Border Albania - Србија	https://www.openstreetmap.org/way/90843530</p>
-<p>Border Montenegro - Србија	https://www.openstreetmap.org/way/350937110</p>
-<p>Border Србија - Macedonia	https://www.openstreetmap.org/way/390836408</p>
-<p>Border Србија - Montenegro	https://www.openstreetmap.org/way/392154293</p>
 <p>Border;Glloboqicë	https://www.openstreetmap.org/node/1012251362</p>
 <p>Borovë	https://www.openstreetmap.org/node/3929487257</p>
 <p>Boshnjaçka	https://www.openstreetmap.org/way/171078620</p>

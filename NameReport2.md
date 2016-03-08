@@ -10,6 +10,7 @@
 <p>Auto Kaçandolli	https://www.openstreetmap.org/way/185141193</p>
 <p>Ašte	https://www.openstreetmap.org/node/3955834605</p>
 <p>BOGIĆEVICA	https://www.openstreetmap.org/way/393493472</p>
+<p>Bajçinovc	https://www.openstreetmap.org/node/4043753259</p>
 <p>Bajë	https://www.openstreetmap.org/node/371567646</p>
 <p>Banjskë	https://www.openstreetmap.org/node/1845301794</p>
 <p>Baza e Novosellës	https://www.openstreetmap.org/way/243270897</p>
