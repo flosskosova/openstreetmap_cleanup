@@ -97,6 +97,8 @@
 <p>Kaçanik-Ferizaj-Prishtinë	https://www.openstreetmap.org/node/3992603033</p>
 <p>Kaçanik-Hani i Elezit-Shkup	https://www.openstreetmap.org/node/3992603032</p>
 <p>Klinë	https://www.openstreetmap.org/node/430705589</p>
+<p>Klinë e Mesme	https://www.openstreetmap.org/node/4046727851</p>
+<p>Klinë e Poshtme	https://www.openstreetmap.org/node/4046727850</p>
 <p>Kobilicë	https://www.openstreetmap.org/node/519596932</p>
 <p>Komuna e Dardanës	https://www.openstreetmap.org/relation/1332162</p>
 <p>Komuna e Kaçanikut	https://www.openstreetmap.org/relation/1332180</p>
@@ -114,11 +116,13 @@
 <p>Kroni i Mađupit	https://www.openstreetmap.org/node/3955505670</p>
 <p>Kroni i Đeljošit	https://www.openstreetmap.org/node/3955661390</p>
 <p>Kroni i đelit	https://www.openstreetmap.org/node/3955662154</p>
+<p>Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272421</p>
 <p>Krčmar	https://www.openstreetmap.org/way/44225634</p>
 <p>Krši i rugs	https://www.openstreetmap.org/way/392331600</p>
 <p>Kufiri Kosovë Serbi	https://www.openstreetmap.org/node/1050170871</p>
 <p>Kushtrimi i Lirisë	https://www.openstreetmap.org/way/389445123</p>
 <p>Kuvendi Komunal i Gracanicës	https://www.openstreetmap.org/way/314343209</p>
+<p>Lapidari i dëshmorëve	https://www.openstreetmap.org/way/402446312</p>
 <p>Lipovicë	https://www.openstreetmap.org/node/3996389001</p>
 <p>Liqeni i Batllavës	https://www.openstreetmap.org/way/8027166</p>
 <p>Livaxhë	https://www.openstreetmap.org/node/371547352</p>
@@ -127,6 +131,7 @@
 <p>Llanishtë	https://www.openstreetmap.org/node/3761568011</p>
 <p>Llapnasellë	https://www.openstreetmap.org/node/2380337821</p>
 <p>Llaushë	https://www.openstreetmap.org/node/4000360557</p>
+<p>Lubishtë	https://www.openstreetmap.org/node/2401263785</p>
 <p>Lumbardhi i Deçanit	https://www.openstreetmap.org/way/185408657</p>
 <p>Lumi i Pejës	https://www.openstreetmap.org/way/216663900</p>
 <p>Lumi i Sekularskës	https://www.openstreetmap.org/way/216673945</p>
@@ -275,6 +280,7 @@
 <p>Xhamia vjetër	https://www.openstreetmap.org/way/280201295</p>
 <p>Ymer Sfarça	https://www.openstreetmap.org/way/379641983</p>
 <p>Zhdredhë	https://www.openstreetmap.org/node/3924380406</p>
+<p>Zveçan	https://www.openstreetmap.org/node/1907401314</p>
 <p>Zylfi Çaka	https://www.openstreetmap.org/way/371634875</p>
 <p>Zëri i Atdheut	https://www.openstreetmap.org/way/389449274</p>
 <p>ÇLIRIMI	https://www.openstreetmap.org/way/281949449</p>
@@ -340,6 +346,7 @@
 <p>Приштина	https://www.openstreetmap.org/node/2885136501</p>
 <p>Пчињски округ	https://www.openstreetmap.org/relation/2015385</p>
 <p>Рашки округ	https://www.openstreetmap.org/relation/2116926</p>
+<p>Североисточен Регион	https://www.openstreetmap.org/relation/2570958</p>
 <p>Скендербег	https://www.openstreetmap.org/way/110386029</p>
 <p>Скопски Регион	https://www.openstreetmap.org/relation/2460455</p>
 <p>Србија	https://www.openstreetmap.org/relation/1741311</p>
