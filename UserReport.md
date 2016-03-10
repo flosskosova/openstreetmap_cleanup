@@ -15,6 +15,7 @@
       1 "flakron" changeset
       1 "Janjko" changeset
       1 "Joe E" changeset
+      1 "karitotp" changeset
       1 "katpatuka" changeset
       1 "labinot" changeset
       1 "letsdoitkosova" changeset
@@ -35,6 +36,7 @@
       1 "railway_fan" changeset
       1 "sebastiansokoli" changeset
       1 "Somarg" changeset
+      1 "SomeoneElse" changeset
       1 "SomeoneElse_Revert" changeset
       1 "thetornado76" changeset
       1 "trump98" changeset
@@ -59,6 +61,7 @@
       2 "MarsmanRom" changeset
       2 "misabrzi" changeset
       2 "Runis" changeset
+      2 "samely" changeset
       2 "To11" changeset
       3 "ArizonaMapper" changeset
       3 "bmog" changeset
@@ -124,14 +127,14 @@
      29 "James Michael DuPont" changeset
      29 "rando67" changeset
      31 "Arpagjiki" changeset
-     32 "Altin" changeset
+     34 "Altin" changeset
      37 "woodpeck_repair" changeset
-     41 "e8aga9f" changeset
      41 "srividya_c" changeset
+     42 "e8aga9f" changeset
      44 "xperiamuslim" changeset
      45 "landfahrer" changeset
      46 "miscosm" changeset
-     47 "wambacher" changeset
+     48 "wambacher" changeset
      52 "gvil" changeset
      52 "Katrori" changeset
      57 "avni tusha" changeset
@@ -159,7 +162,7 @@
     405 "venerdi" changeset
     486 "enis" changeset
     546 "mpele" changeset
-    549 "ValdrinGashi" changeset
+    550 "ValdrinGashi" changeset
     556 "Yll Ferizi" changeset
     651 "yfrtx" changeset
     679 "arhijakon" changeset

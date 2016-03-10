@@ -35,6 +35,7 @@
 <p>DEPO, MIROS, Fushe-Kosovë	https://www.openstreetmap.org/node/3908983320</p>
 <p>Dardanët	https://www.openstreetmap.org/way/393051599</p>
 <p>Dedë Gjoluli	https://www.openstreetmap.org/way/114669231</p>
+<p>Dejnë	https://www.openstreetmap.org/node/4050246603</p>
 <p>Desivojcë	https://www.openstreetmap.org/node/3996017557</p>
 <p>Deçan	https://www.openstreetmap.org/node/1839805748</p>
 <p>Dheu i Bardhë	https://www.openstreetmap.org/way/389447074</p>
@@ -50,6 +51,7 @@
 <p>Dëshmorët e Kombit	https://www.openstreetmap.org/way/50510249</p>
 <p>Dëshmorët e Lirisë	https://www.openstreetmap.org/way/389459769</p>
 <p>E Shalës	https://www.openstreetmap.org/way/229657910</p>
+<p>Enrad - Fabrika e Radiatorëve	https://www.openstreetmap.org/way/401156924</p>
 <p>Epopeja e UÇK-së	https://www.openstreetmap.org/way/389460227</p>
 <p>Fabrika e Feronikelit në Drenas	https://www.openstreetmap.org/way/196695542</p>
 <p>Fabrika e Radiatorëve	https://www.openstreetmap.org/way/401156924</p>
@@ -142,6 +144,7 @@
 <p>Malishevë	https://www.openstreetmap.org/node/1788921587</p>
 <p>Malji Nečinat	https://www.openstreetmap.org/node/3941596453</p>
 <p>Malji ćeka	https://www.openstreetmap.org/way/392318881</p>
+<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823520</p>
 <p>Martirët Bushi	https://www.openstreetmap.org/way/389447765</p>
 <p>Martirët e Dermjakut	https://www.openstreetmap.org/way/389449732</p>
 <p>Ministria për Komunitete dhe Kthim	https://www.openstreetmap.org/way/387480087</p>
