@@ -30,6 +30,7 @@
 <p>Brezovicë	https://www.openstreetmap.org/node/3255575289</p>
 <p>Burojë	https://www.openstreetmap.org/node/3921781550</p>
 <p>Buçaj SH.P.K.	https://www.openstreetmap.org/way/180825610</p>
+<p>Ceвepнa Косовска Митровица	https://www.openstreetmap.org/node/4024245637</p>
 <p>Cërkolezi	https://www.openstreetmap.org/node/371567702</p>
 <p>Cërmjan	https://www.openstreetmap.org/node/3925463577</p>
 <p>DEPO, MIROS, Fushe-Kosovë	https://www.openstreetmap.org/node/3908983320</p>

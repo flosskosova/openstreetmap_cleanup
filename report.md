@@ -136,6 +136,7 @@
 <p>Carrallugë	https://www.openstreetmap.org/node/3138271286</p>
 <p>Celinë	https://www.openstreetmap.org/node/3023414927</p>
 <p>Cerrcë	https://www.openstreetmap.org/node/371567688</p>
+<p>Ceвepнa Косовска Митровица	https://www.openstreetmap.org/node/4024245637</p>
 <p>Cërkolezi	https://www.openstreetmap.org/way/217980474</p>
 <p>Cërmjan	https://www.openstreetmap.org/node/3925463577</p>
 <p>Cërnillë	https://www.openstreetmap.org/node/2508699241</p>
@@ -148,6 +149,7 @@
 <p>Dardanët	https://www.openstreetmap.org/way/393051599</p>
 <p>Dedë Gjo Luli	https://www.openstreetmap.org/way/115955502</p>
 <p>Dedë Gjoluli	https://www.openstreetmap.org/way/114669231</p>
+<p>Dejnë	https://www.openstreetmap.org/node/4050246603</p>
 <p>Delovcë	https://www.openstreetmap.org/node/2050315787</p>
 <p>Demë Ali Pozhari	https://www.openstreetmap.org/way/91858386</p>
 <p>Desivojcë	https://www.openstreetmap.org/node/3996017557</p>
@@ -172,7 +174,6 @@
 <p>Dragashë	https://www.openstreetmap.org/way/333813662</p>
 <p>Drejtoria për buxhet financa dhe investime	https://www.openstreetmap.org/node/1426348421</p>
 <p>Drejtësia	https://www.openstreetmap.org/way/55422370</p>
-<p>Drelë	https://www.openstreetmap.org/node/3563261393</p>
 <p>Drenogllavë	https://www.openstreetmap.org/node/3761562216</p>
 <p>Drini i Bardhë	https://www.openstreetmap.org/way/172322841</p>
 <p>Drini i bardhë	https://www.openstreetmap.org/way/335361705</p>
@@ -209,12 +210,12 @@
 <p>E Veskopojës	https://www.openstreetmap.org/way/91435253</p>
 <p>E Çamërisë	https://www.openstreetmap.org/way/92253450</p>
 <p>Emërllah Kuqi	https://www.openstreetmap.org/way/371656239</p>
+<p>Enrad - Fabrika e Radiatorëve	https://www.openstreetmap.org/way/401156924</p>
 <p>Epopeja e UÇK-së	https://www.openstreetmap.org/way/389460227</p>
 <p>Eqrem Çabej	https://www.openstreetmap.org/way/216123346</p>
 <p>Etno kuća	https://www.openstreetmap.org/way/314350994</p>
 <p>Eçrem Qabej	https://www.openstreetmap.org/node/1585449686</p>
 <p>Fabrika e Feronikelit në Drenas	https://www.openstreetmap.org/way/196695542</p>
-<p>Fabrika e Radiatorëve	https://www.openstreetmap.org/way/401156924</p>
 <p>Fakulteti i Edukimit &#38; Filologjisë	https://www.openstreetmap.org/way/319956784</p>
 <p>Fakulteti i Ndërtimtarisë dhe Arkitekturës - Universiteti i Prishtinës	https://www.openstreetmap.org/way/104163443</p>
 <p>Feriz Guri &#38;Vëllezërit Çaka	https://www.openstreetmap.org/way/395704614</p>
@@ -369,6 +370,8 @@
 <p>Kleçkë	https://www.openstreetmap.org/node/3385995374</p>
 <p>Klinë	https://www.openstreetmap.org/node/1846619686</p>
 <p>Klinë e Epërme	https://www.openstreetmap.org/node/1967296369</p>
+<p>Klinë e Mesme	https://www.openstreetmap.org/node/4046727851</p>
+<p>Klinë e Poshtme	https://www.openstreetmap.org/node/4046727850</p>
 <p>Kobilicë	https://www.openstreetmap.org/node/519596932</p>
 <p>Kodra e Deshmorëve	https://www.openstreetmap.org/node/364395228</p>
 <p>Kojushë	https://www.openstreetmap.org/node/1839757257</p>
@@ -426,6 +429,7 @@
 <p>Krushicë e Epërme	https://www.openstreetmap.org/node/2058570021</p>
 <p>Krushicë e Poshtme	https://www.openstreetmap.org/node/2058570157</p>
 <p>Krushë e Madhe	https://www.openstreetmap.org/node/3023405416</p>
+<p>Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272421</p>
 <p>Krushë e Vogël	https://www.openstreetmap.org/node/3023447032</p>
 <p>Krčmar	https://www.openstreetmap.org/way/44225716</p>
 <p>Krši i rugs	https://www.openstreetmap.org/way/392331600</p>
@@ -453,6 +457,7 @@
 <p>Lagjëja 17 shkurti	https://www.openstreetmap.org/way/49909221</p>
 <p>Landovicë	https://www.openstreetmap.org/node/2060205132</p>
 <p>Lapidari i Lidhjes së Prizrenit	https://www.openstreetmap.org/node/3762039108</p>
+<p>Lapidari i dëshmorëve	https://www.openstreetmap.org/way/402446312</p>
 <p>Lapidari i dëshmorëve të Pashtrikut	https://www.openstreetmap.org/way/340313957</p>
 <p>Lebanë	https://www.openstreetmap.org/node/3833118194</p>
 <p>Lekë Dukagjini	https://www.openstreetmap.org/way/273649913</p>
@@ -512,6 +517,7 @@
 <p>Malësi e Re	https://www.openstreetmap.org/node/984522199</p>
 <p>Malësori	https://www.openstreetmap.org/way/371625396</p>
 <p>Mamushë	https://www.openstreetmap.org/node/2060212428</p>
+<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823520</p>
 <p>Manastiri i Graçanicës	https://www.openstreetmap.org/way/283107375</p>
 <p>Manastiricë	https://www.openstreetmap.org/node/2088201454</p>
 <p>Maqitevë	https://www.openstreetmap.org/node/2058452249</p>
@@ -776,7 +782,7 @@
 <p>Rrahovë	https://www.openstreetmap.org/node/2587255779</p>
 <p>Rrethi për Vrapim	https://www.openstreetmap.org/way/230229181</p>
 <p>Rrokaqielli i kaltërt	https://www.openstreetmap.org/way/146604927</p>
-<p>Rruga Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272421</p>
+<p>Rruga Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272420</p>
 <p>Rruga Lipovicët	https://www.openstreetmap.org/way/280198343</p>
 <p>Rruga Muhaxhirët	https://www.openstreetmap.org/way/230439003</p>
 <p>Rruga Mërgimtari	https://www.openstreetmap.org/way/347976739</p>
@@ -1232,6 +1238,5 @@
 <p>државни пут IБ реда 41	https://www.openstreetmap.org/relation/3388433</p>
 <p>државни пут IБ реда 44	https://www.openstreetmap.org/relation/3412053</p>
 <p>железничка станица	https://www.openstreetmap.org/way/143447452</p>
-<p>манастир Високи Дечани	https://www.openstreetmap.org/way/223823520</p>
 <p>радар	https://www.openstreetmap.org/way/400234107</p>
 </html>
