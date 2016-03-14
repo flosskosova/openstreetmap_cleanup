@@ -29,6 +29,7 @@
 <p>Braina e Vogël	https://www.openstreetmap.org/node/2226186187</p>
 <p>Brezovicë	https://www.openstreetmap.org/node/3255575289</p>
 <p>Burojë	https://www.openstreetmap.org/node/3921781550</p>
+<p>Bushatë	https://www.openstreetmap.org/node/3419246701</p>
 <p>Buçaj SH.P.K.	https://www.openstreetmap.org/way/180825610</p>
 <p>Ceвepнa Косовска Митровица	https://www.openstreetmap.org/node/4024245637</p>
 <p>Cërkolezi	https://www.openstreetmap.org/node/371567702</p>
@@ -149,10 +150,13 @@
 <p>Martirët Bushi	https://www.openstreetmap.org/way/389447765</p>
 <p>Martirët e Dermjakut	https://www.openstreetmap.org/way/389449732</p>
 <p>Ministria për Komunitete dhe Kthim	https://www.openstreetmap.org/way/387480087</p>
+<p>Mirash i Vjetër	https://www.openstreetmap.org/node/4058692792</p>
+<p>Mirosalë	https://www.openstreetmap.org/node/4058704233</p>
 <p>Mishtorja Velekincë	https://www.openstreetmap.org/way/392447156</p>
 <p>Mitrovicë	https://www.openstreetmap.org/node/2093601140</p>
 <p>Mjakë	https://www.openstreetmap.org/node/3958560466</p>
 <p>Morinë	https://www.openstreetmap.org/node/1905639937</p>
+<p>Muzeqinë	https://www.openstreetmap.org/node/4057251932</p>
 <p>Muçibabë	https://www.openstreetmap.org/node/3458978670</p>
 <p>Mërgimtarët	https://www.openstreetmap.org/way/389444904</p>
 <p>Nepolë	https://www.openstreetmap.org/node/3924380399</p>
@@ -166,9 +170,11 @@
 <p>Opština Plav	https://www.openstreetmap.org/relation/2317882</p>
 <p>Opština Rožaje	https://www.openstreetmap.org/relation/2317936</p>
 <p>Parku , Kaçanik	https://www.openstreetmap.org/node/3908315435</p>
+<p>Parku Kombëtar &quot;Bjeshkët e Nemuna të Kosovës&quot;	https://www.openstreetmap.org/way/377710168</p>
 <p>Parku Kombëtar &quot;Bjeshkët e Nemuna&quot;	https://www.openstreetmap.org/way/377710168</p>
 <p>Parku Kombëtar &quot;Malet e Sharrit&quot;	https://www.openstreetmap.org/node/3979022741</p>
 <p>Parku i Blinajës	https://www.openstreetmap.org/way/388768042</p>
+<p>Parku i Lirisë	https://www.openstreetmap.org/way/403522438</p>
 <p>Pataçan i Poshtëm	https://www.openstreetmap.org/node/3418132740</p>
 <p>Pejë	https://www.openstreetmap.org/node/3075195901</p>
 <p>Pećka Bistrica	https://www.openstreetmap.org/way/391070458</p>
@@ -176,6 +182,7 @@
 <p>Pišljiv krš	https://www.openstreetmap.org/node/3941722545</p>
 <p>Plehnistë	https://www.openstreetmap.org/node/1974025449</p>
 <p>Podujevë	https://www.openstreetmap.org/node/299447753</p>
+<p>Pojatishtë	https://www.openstreetmap.org/node/4058704237</p>
 <p>Posta e Gracanicës	https://www.openstreetmap.org/way/314343212</p>
 <p>Posta e Kosovës	https://www.openstreetmap.org/way/389563892</p>
 <p>Posta&amp;Telekomi i Kosovës-ptk	https://www.openstreetmap.org/way/373792603</p>
@@ -189,6 +196,7 @@
 <p>Pčelji krš	https://www.openstreetmap.org/node/3853938815</p>
 <p>Qerdhja për fëmijë &quot;Gezimi Yne&quot;	https://www.openstreetmap.org/node/1213666992</p>
 <p>Qeveria e Kosovës	https://www.openstreetmap.org/way/125485840</p>
+<p>Rahishtë	https://www.openstreetmap.org/node/4058684877</p>
 <p>Reka e Novosellës	https://www.openstreetmap.org/way/252246147</p>
 <p>Republika e Kosovës	https://www.openstreetmap.org/relation/2088990</p>
 <p>Rezidenca Çaka	https://www.openstreetmap.org/node/3756760674</p>
@@ -228,6 +236,8 @@
 <p>Shushicë	https://www.openstreetmap.org/node/352997418</p>
 <p>Shushtë	https://www.openstreetmap.org/node/3958560467</p>
 <p>Skënderbeu	https://www.openstreetmap.org/way/395704526</p>
+<p>Sllakoc i Epërm	https://www.openstreetmap.org/node/4057202330</p>
+<p>Sllakoc i Poshtëm	https://www.openstreetmap.org/node/4057202326</p>
 <p>Sopotnicë	https://www.openstreetmap.org/node/3761544512</p>
 <p>Soqanicë	https://www.openstreetmap.org/node/1845296706</p>
 <p>Stacioni i Autobusave  Kaçanik	https://www.openstreetmap.org/way/372126772</p>
@@ -241,6 +251,7 @@
 <p>Sulejman Çaka	https://www.openstreetmap.org/way/395679625</p>
 <p>Suvo smrče	https://www.openstreetmap.org/way/391029376</p>
 <p>Sylë Paloja	https://www.openstreetmap.org/way/235323608</p>
+<p>Talinoc i Muhaxherëve	https://www.openstreetmap.org/node/4058704235</p>
 <p>Te Dëshmorët	https://www.openstreetmap.org/way/394957113</p>
 <p>Therandë	https://www.openstreetmap.org/node/1836571291</p>
 <p>Therandë/Suharekë	https://www.openstreetmap.org/node/1836571291</p>
@@ -275,6 +286,7 @@
 <p>Verrezat e fshatit Velekincë	https://www.openstreetmap.org/way/392450259</p>
 <p>Vila Oxygen - Kuqishtë - Rugovë	https://www.openstreetmap.org/node/3984369530</p>
 <p>Vranishtë	https://www.openstreetmap.org/way/223857576</p>
+<p>Vrellë e Goleshit	https://www.openstreetmap.org/node/4057232486</p>
 <p>Vëllezërit Çaka	https://www.openstreetmap.org/way/376844931</p>
 <p>Vërben	https://www.openstreetmap.org/node/3958563401</p>
 <p>Xhamia e Fshatiti Velekincë	https://www.openstreetmap.org/way/280199570</p>
