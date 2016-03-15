@@ -85,6 +85,7 @@
       6 "Blerim H Berisha" changeset
       6 "glibbertorsten" changeset
       6 "Gums" changeset
+      6 "Isuf Koci" changeset
       6 "kosovastar" changeset
       6 "Luis36995" changeset
       6 "Mecki" changeset
@@ -123,9 +124,9 @@
      17 "Amaroussi" changeset
      17 "Arianit" changeset
      18 "JayCBR" changeset
-     19 "borces" changeset
      19 "NJAZI RAMADANI" changeset
      19 "ruph" changeset
+     20 "borces" changeset
      21 "armandalex" changeset
      25 "easyX" changeset
      28 "Lekos" changeset
@@ -160,7 +161,7 @@
     127 "patwell" changeset
     142 "Shokremir" changeset
     162 "15Tr" changeset
-    208 "SunCobalt_import" changeset
+    209 "SunCobalt_import" changeset
     244 "Toyota_79" changeset
     255 "SU-47" changeset
     301 "malenki" changeset
@@ -168,8 +169,8 @@
     405 "venerdi" changeset
     486 "enis" changeset
     546 "mpele" changeset
-    552 "ValdrinGashi" changeset
     556 "Yll Ferizi" changeset
+    624 "ValdrinGashi" changeset
     651 "yfrtx" changeset
     679 "arhijakon" changeset
    1016 "pyram" changeset
@@ -181,5 +182,5 @@
    2935 "BesfortGuri" changeset
    4715 "kragon77" changeset
    5457 "corpsegroom" changeset
-   8091 "RIVERLIM" changeset
-  26006 "MarcKosova" changeset
+   8318 "RIVERLIM" changeset
+  26303 "MarcKosova" changeset
