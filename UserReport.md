@@ -47,7 +47,6 @@
       2 "AlketR" changeset
       2 "bobimkd" changeset
       2 "ChrissW-R1" changeset
-      2 "Christoph Lotz" changeset
       2 "CiaránMooney" changeset
       2 "daganzdaanda" changeset
       2 "danidoedel" changeset
@@ -70,7 +69,6 @@
       3 "hofoen" changeset
       3 "Unpocoloco" changeset
       3 "wheelmap_visitor" changeset
-      4 "calfarome" changeset
       4 "fpm#" changeset
       4 "Helmchen42" changeset
       4 "kmilos" changeset
@@ -85,26 +83,27 @@
       6 "Blerim H Berisha" changeset
       6 "glibbertorsten" changeset
       6 "Gums" changeset
-      6 "Isuf Koci" changeset
       6 "kosovastar" changeset
-      6 "Luis36995" changeset
       6 "Mecki" changeset
       6 "venharsylka" changeset
       6 "zombieyu" changeset
       7 "didier2020" changeset
       7 "fatlume" changeset
       7 "JoeG" changeset
-      7 "RichRico" changeset
       7 "SuhelAhmeti" changeset
       8 "dkiselev" changeset
       8 "FvGordon" changeset
       8 "Hekuran Maliqi" changeset
       8 "Opaky" changeset
+      8 "RichRico" changeset
       8 "xmd5a" changeset
       8 "عقبة بن نافع" changeset
+      9 "calfarome" changeset
       9 "samely" changeset
       9 "xenomK" changeset
      10 "BeratPreniqi" changeset
+     10 "Christoph Lotz" changeset
+     10 "Luis36995" changeset
      10 "Ori952" changeset
      10 "Peki1980" changeset
      11 "Foska" changeset
@@ -141,6 +140,7 @@
      45 "landfahrer" changeset
      45 "msylka" changeset
      46 "miscosm" changeset
+     47 "Isuf Koci" changeset
      49 "wambacher" changeset
      52 "gvil" changeset
      52 "Katrori" changeset
