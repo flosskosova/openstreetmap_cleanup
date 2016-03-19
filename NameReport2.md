@@ -20,6 +20,7 @@
 <p>Bicë	https://www.openstreetmap.org/node/3921781551</p>
 <p>Bijela česma	https://www.openstreetmap.org/node/3949625614</p>
 <p>Bistricë	https://www.openstreetmap.org/node/3929478459</p>
+<p>Bogë - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Border Albania -  Србија	https://www.openstreetmap.org/way/204317665</p>
 <p>Border Albania - Србија	https://www.openstreetmap.org/way/204317662</p>
 <p>Border Montenegro - Србија	https://www.openstreetmap.org/way/397488658</p>
@@ -84,6 +85,7 @@
 <p>Izbicë	https://www.openstreetmap.org/node/3921781554</p>
 <p>Jabllanicë	https://www.openstreetmap.org/node/3924380400</p>
 <p>Jagaći do	https://www.openstreetmap.org/way/392577993</p>
+<p>Janjevë	https://www.openstreetmap.org/node/2333692378</p>
 <p>Jarinjë	https://www.openstreetmap.org/node/3929464284</p>
 <p>Jerinë	https://www.openstreetmap.org/node/448716472</p>
 <p>Jošanička rijeka	https://www.openstreetmap.org/way/392328403</p>
@@ -136,7 +138,9 @@
 <p>Llapnasellë	https://www.openstreetmap.org/node/2380337821</p>
 <p>Llaushë	https://www.openstreetmap.org/node/4000360557</p>
 <p>Lubishtë	https://www.openstreetmap.org/node/2401263785</p>
+<p>Lumbardh i Pejës	https://www.openstreetmap.org/way/391030731</p>
 <p>Lumbardhi i Deçanit	https://www.openstreetmap.org/way/185408657</p>
+<p>Lumbardhi i Pejës	https://www.openstreetmap.org/way/391030778</p>
 <p>Lumi i Pejës	https://www.openstreetmap.org/way/216663900</p>
 <p>Lumi i Sekularskës	https://www.openstreetmap.org/way/216673945</p>
 <p>Lučanski stanovi / Radafc	https://www.openstreetmap.org/node/710708633</p>
@@ -222,6 +226,7 @@
 <p>Sfarçak i Poshtëm	https://www.openstreetmap.org/node/3901240280</p>
 <p>Sheshi i Lirisë	https://www.openstreetmap.org/way/143497245</p>
 <p>Shkolla Fillore &quot;Dëshmorët e Bobit&quot;	https://www.openstreetmap.org/way/372127516</p>
+<p>Shkolla Fillore &quot;Shkëndija&quot;	https://www.openstreetmap.org/way/404360221</p>
 <p>Shkugëz	https://www.openstreetmap.org/way/97192369</p>
 <p>Shoqata e Invalidëve &quot; UÇK&quot;	https://www.openstreetmap.org/node/3761916691</p>
 <p>Shpëtim Robaj	https://www.openstreetmap.org/way/219357198</p>

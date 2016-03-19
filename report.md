@@ -6,7 +6,6 @@
 <p>Abrijë e Epërme	https://www.openstreetmap.org/node/4000356531</p>
 <p>Abrijë e Poshtme	https://www.openstreetmap.org/node/4000356530</p>
 <p>Adem, Trepça	https://www.openstreetmap.org/way/249360542</p>
-<p>Adžovića rijeka	https://www.openstreetmap.org/way/391067173</p>
 <p>Aeroporti Ndërkombëtar i Prishtinës &#34;Adem Jashari&#34;	https://www.openstreetmap.org/way/292210152</p>
 <p>Agim Çela	https://www.openstreetmap.org/way/50918140</p>
 <p>Agjencia Kosovare Kundër Korrupsionit	https://www.openstreetmap.org/node/1699718120</p>
@@ -84,8 +83,8 @@
 <p>Bllacë	https://www.openstreetmap.org/node/3473273999</p>
 <p>Bllagajë	https://www.openstreetmap.org/node/3684407114</p>
 <p>Bllatë	https://www.openstreetmap.org/node/3235809383</p>
-<p>Boge - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Bogë	https://www.openstreetmap.org/node/3563254193</p>
+<p>Bogë - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Border;Glloboqicë	https://www.openstreetmap.org/node/1012251362</p>
 <p>Borovë	https://www.openstreetmap.org/node/3929487257</p>
 <p>Boshnjaçka	https://www.openstreetmap.org/way/171078620</p>
@@ -115,6 +114,7 @@
 <p>Burimi i Drinit të bardhë	https://www.openstreetmap.org/way/350553696</p>
 <p>Burnicë	https://www.openstreetmap.org/node/3459013566</p>
 <p>Burojë	https://www.openstreetmap.org/node/3921781550</p>
+<p>Bushatë	https://www.openstreetmap.org/node/3419246701</p>
 <p>Bushatëlive	https://www.openstreetmap.org/way/91256710</p>
 <p>Busti i Ruzhdi Janjevës	https://www.openstreetmap.org/node/3396483977</p>
 <p>Buzhalë	https://www.openstreetmap.org/node/2058569574</p>
@@ -265,7 +265,6 @@
 <p>Graçanicë	https://www.openstreetmap.org/way/376398660</p>
 <p>Graçanka	https://www.openstreetmap.org/way/386855549</p>
 <p>Grykë-Çaje	https://www.openstreetmap.org/relation/1248554</p>
-<p>Gura daš	https://www.openstreetmap.org/node/3941868615</p>
 <p>Guri i Shpumë	https://www.openstreetmap.org/node/3937013902</p>
 <p>Gurrakocc - Klinë	https://www.openstreetmap.org/way/185592410</p>
 <p>Gurëz	https://www.openstreetmap.org/node/2107256277</p>
@@ -341,7 +340,6 @@
 <p>Jazhincë	https://www.openstreetmap.org/node/2328269360</p>
 <p>Jerinë	https://www.openstreetmap.org/node/448716472</p>
 <p>Jeshkovë	https://www.openstreetmap.org/node/1839601280</p>
-<p>Jošanička rijeka	https://www.openstreetmap.org/way/392328403</p>
 <p>KONTRATA.int - PËRKTHIME - SHËRBIME JURIDIKE DHE EKONOMIKE	https://www.openstreetmap.org/way/280192997</p>
 <p>KONTRATA.int SHËRBIME JURIDIKE EKONOMIKE - PËRKTHIME - Mr.Sc. Xhelil Neziri	https://www.openstreetmap.org/way/280197546</p>
 <p>Kalaja e Kaçanikut	https://www.openstreetmap.org/way/395708215</p>
@@ -406,7 +404,6 @@
 <p>Korenicë	https://www.openstreetmap.org/node/3665698853</p>
 <p>Korilë	https://www.openstreetmap.org/node/448726177</p>
 <p>Korishë	https://www.openstreetmap.org/node/2042177680</p>
-<p>Korni škal kuće	https://www.openstreetmap.org/node/3955775251</p>
 <p>Korporata Energjetike e Kosovës	https://www.openstreetmap.org/way/195201002</p>
 <p>Kosaqë	https://www.openstreetmap.org/node/427125103</p>
 <p>Kosavë	https://www.openstreetmap.org/way/342919120</p>
@@ -419,9 +416,6 @@
 <p>Kreu i Rezalskës	https://www.openstreetmap.org/node/2335056316</p>
 <p>Krilevë	https://www.openstreetmap.org/node/429910527</p>
 <p>Krivanjevë	https://www.openstreetmap.org/node/3762006562</p>
-<p>Kroni i Mađupit	https://www.openstreetmap.org/node/3955505670</p>
-<p>Kroni i Đeljošit	https://www.openstreetmap.org/node/3955661390</p>
-<p>Kroni i đelit	https://www.openstreetmap.org/node/3955662154</p>
 <p>Krrakë	https://www.openstreetmap.org/node/3214264534</p>
 <p>Krumë	https://www.openstreetmap.org/relation/1248557</p>
 <p>Krushevë	https://www.openstreetmap.org/node/1839585506</p>
@@ -432,7 +426,6 @@
 <p>Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272421</p>
 <p>Krushë e Vogël	https://www.openstreetmap.org/node/3023447032</p>
 <p>Krčmar	https://www.openstreetmap.org/way/44225716</p>
-<p>Krši i rugs	https://www.openstreetmap.org/way/392331600</p>
 <p>Kufiri Kosovë Maqedoni 	https://www.openstreetmap.org/way/231908614</p>
 <p>Kufiri Kosovë Serbi	https://www.openstreetmap.org/node/1050170871</p>
 <p>Kufiri Kosovë-Mali Zi	https://www.openstreetmap.org/node/282038509</p>
@@ -471,7 +464,6 @@
 <p>Livaxhë	https://www.openstreetmap.org/node/371547352</p>
 <p>Livoq i Epërm	https://www.openstreetmap.org/node/1905560460</p>
 <p>Livoç i Poshtëm	https://www.openstreetmap.org/node/1905560461</p>
-<p>Ljočki stanovi	https://www.openstreetmap.org/node/3955883128</p>
 <p>Ljubinski Uši	https://www.openstreetmap.org/node/519596945</p>
 <p>Ljukšterp	https://www.openstreetmap.org/way/391714708</p>
 <p>Lladovë	https://www.openstreetmap.org/node/3235777792</p>
@@ -494,25 +486,24 @@
 <p>Lubovë	https://www.openstreetmap.org/node/1984175566</p>
 <p>Lubozhdë	https://www.openstreetmap.org/node/371567696</p>
 <p>Luginë e Thellë	https://www.openstreetmap.org/node/2333692398</p>
+<p>Lumbardh i Pejës	https://www.openstreetmap.org/way/391030731</p>
 <p>Lumbardhi i Deçanit	https://www.openstreetmap.org/way/185408687</p>
-<p>Lumbardhi i Pejës	https://www.openstreetmap.org/way/194774242</p>
+<p>Lumbardhi i Pejës	https://www.openstreetmap.org/way/391030778</p>
 <p>Lumi i Boroglavës	https://www.openstreetmap.org/node/1245050288</p>
 <p>Lumi i Pejës	https://www.openstreetmap.org/way/216663900</p>
 <p>Lumi i Sekularskës	https://www.openstreetmap.org/way/216673945</p>
 <p>Lutogllavë	https://www.openstreetmap.org/node/2386169675</p>
 <p>Luzhnicë	https://www.openstreetmap.org/node/3473274001</p>
-<p>Lučanski stanovi / Radafc	https://www.openstreetmap.org/node/710708633</p>
+<p>Lučanski stanovi / Radafc	https://www.openstreetmap.org/node/4066915200</p>
 <p>Lëvizja Vetvëvendosje	https://www.openstreetmap.org/node/612468834</p>
 <p>Magurë	https://www.openstreetmap.org/node/371547306</p>
 <p>Maja Gjelbërt	https://www.openstreetmap.org/node/448574418</p>
 <p>Maja e Shkukës	https://www.openstreetmap.org/node/519596973</p>
-<p>Maja e Ćunđeve	https://www.openstreetmap.org/node/3955456191</p>
 <p>Maja më e Lartë-Butofc	https://www.openstreetmap.org/node/609953234</p>
 <p>Maja Šis	https://www.openstreetmap.org/node/3955567423</p>
 <p>Malishevë	https://www.openstreetmap.org/node/1920392800</p>
 <p>Malishevë / Mališevo toll booth (2013)	https://www.openstreetmap.org/way/193732200</p>
 <p>Malji Nečinat	https://www.openstreetmap.org/way/382249156</p>
-<p>Malji ćeka	https://www.openstreetmap.org/way/392318881</p>
 <p>Malokë	https://www.openstreetmap.org/node/3216019504</p>
 <p>Malësi e Re	https://www.openstreetmap.org/node/984522199</p>
 <p>Malësori	https://www.openstreetmap.org/way/371625396</p>
@@ -550,7 +541,9 @@
 <p>Ministria e punës dhe mirqenies Sociale	https://www.openstreetmap.org/way/147125028</p>
 <p>Ministria për Komunitete dhe Kthim	https://www.openstreetmap.org/way/387480087</p>
 <p>Miradi e Epërme	https://www.openstreetmap.org/node/2380337889</p>
+<p>Mirash i Vjetër	https://www.openstreetmap.org/node/4058692792</p>
 <p>Mirenë	https://www.openstreetmap.org/node/2381101195</p>
+<p>Mirosalë	https://www.openstreetmap.org/node/4058704233</p>
 <p>Mirushë	https://www.openstreetmap.org/node/3415147944</p>
 <p>Mishtorja Velekincë	https://www.openstreetmap.org/way/392447156</p>
 <p>Mithat Frashëri	https://www.openstreetmap.org/way/91258129</p>
@@ -570,6 +563,7 @@
 <p>Muhaxhirët	https://www.openstreetmap.org/way/55037910</p>
 <p>Mulliri i Haxhi Zekës	https://www.openstreetmap.org/node/2017883305</p>
 <p>Mushnikovë	https://www.openstreetmap.org/node/3594399911</p>
+<p>Muzeqinë	https://www.openstreetmap.org/node/4057251932</p>
 <p>Muzeu i Kosovës	https://www.openstreetmap.org/way/136354953</p>
 <p>Muçibabë	https://www.openstreetmap.org/node/3458978670</p>
 <p>Muçivërc	https://www.openstreetmap.org/node/3235812313</p>
@@ -621,12 +615,12 @@
 <p>Parkingu i Komunës	https://www.openstreetmap.org/way/146621284</p>
 <p>Parkingu i Shtëpis Shëndetit	https://www.openstreetmap.org/way/146621292</p>
 <p>Parku , Kaçanik	https://www.openstreetmap.org/node/3908315435</p>
-<p>Parku Kombëtar &#34;Bjeshkët e Nemuna&#34;	https://www.openstreetmap.org/way/377710168</p>
+<p>Parku Kombëtar &#34;Bjeshkët e Nemuna të Kosovës&#34;	https://www.openstreetmap.org/way/377710168</p>
 <p>Parku Kombëtar &#34;Malet e Sharrit&#34;	https://www.openstreetmap.org/node/3979022741</p>
 <p>Parku Zabeli Kçiq i Madh	https://www.openstreetmap.org/way/244866137</p>
 <p>Parku i Blinajës	https://www.openstreetmap.org/way/388768042</p>
 <p>Parku i Gërmisë	https://www.openstreetmap.org/way/354017450</p>
-<p>Parku i Lirisë	https://www.openstreetmap.org/way/222060600</p>
+<p>Parku i Lirisë	https://www.openstreetmap.org/way/403522438</p>
 <p>Parku i qytetit &#34;Karagaç&#34;	https://www.openstreetmap.org/way/367139016</p>
 <p>Parku në Junik	https://www.openstreetmap.org/node/3208011521</p>
 <p>Parlamenti i Republikës së Kosovës	https://www.openstreetmap.org/way/125485855</p>
@@ -664,6 +658,7 @@
 <p>Pogragjë	https://www.openstreetmap.org/node/3458963563</p>
 <p>Pogragjë Dobrosin	https://www.openstreetmap.org/way/230220264</p>
 <p>Pogragjë-Uglar	https://www.openstreetmap.org/way/230224886</p>
+<p>Pojatishtë	https://www.openstreetmap.org/node/4058704237</p>
 <p>Policia e Kosovës	https://www.openstreetmap.org/node/1851767929</p>
 <p>Polluzhë	https://www.openstreetmap.org/node/3610643751</p>
 <p>Poslishtë	https://www.openstreetmap.org/node/1839601274</p>
@@ -684,7 +679,6 @@
 <p>Prishtinë	https://www.openstreetmap.org/node/2885136501</p>
 <p>Prishtinë-Gjilan	https://www.openstreetmap.org/way/376398687</p>
 <p>Proni i Škodres	https://www.openstreetmap.org/way/391014779</p>
-<p>Prčin brijeg	https://www.openstreetmap.org/node/3941940788</p>
 <p>Pus i Škalt	https://www.openstreetmap.org/node/3941866842</p>
 <p>Pushimore / Odmaralište	https://www.openstreetmap.org/way/137133203</p>
 <p>Pusi i Pestovës	https://www.openstreetmap.org/way/252244945</p>
@@ -735,6 +729,7 @@
 <p>Radio Televisioni i Kosovës	https://www.openstreetmap.org/node/617633621</p>
 <p>Radio Televizioni i Kosovës	https://www.openstreetmap.org/node/1699833790</p>
 <p>Radostë	https://www.openstreetmap.org/node/1969114348</p>
+<p>Rahishtë	https://www.openstreetmap.org/node/4058684877</p>
 <p>Ramiz Cërnica	https://www.openstreetmap.org/way/35929810</p>
 <p>Ramë Geci	https://www.openstreetmap.org/way/91014812</p>
 <p>Ramë Husaj	https://www.openstreetmap.org/way/91884276</p>
@@ -820,7 +815,6 @@
 <p>Runjevë	https://www.openstreetmap.org/node/3761561503</p>
 <p>Rustë Kabashi	https://www.openstreetmap.org/way/171078621</p>
 <p>Rëvatskë	https://www.openstreetmap.org/node/3929468847</p>
-<p>Rđavi potok	https://www.openstreetmap.org/way/391011129</p>
 <p>Sach Caffé	https://www.openstreetmap.org/node/3886361984</p>
 <p>Sadik Çaka	https://www.openstreetmap.org/way/396108574</p>
 <p>Sali Çeku	https://www.openstreetmap.org/way/110392086</p>
@@ -857,7 +851,7 @@
 <p>Shkolla Fillore &#34;Gjon Serreçi&#34;	https://www.openstreetmap.org/way/87599841</p>
 <p>Shkolla Fillore &#34;M. Këpuska&#34;	https://www.openstreetmap.org/node/1694605620</p>
 <p>Shkolla Fillore &#34;Shkëdija&#34;	https://www.openstreetmap.org/node/3224839478</p>
-<p>Shkolla Fillore &#34;Shkëndija&#34;	https://www.openstreetmap.org/way/94343025</p>
+<p>Shkolla Fillore &#34;Shkëndija&#34;	https://www.openstreetmap.org/way/404360221</p>
 <p>Shkolla Fillore Heronjët e Kosovës	https://www.openstreetmap.org/way/298558602</p>
 <p>Shkolla Fillore Korishë	https://www.openstreetmap.org/way/204275617</p>
 <p>Shkolla Fillore e Mesme e Ulët &#34;Shtjefën Gjeçovi&#34;	https://www.openstreetmap.org/node/3396483974</p>
@@ -908,6 +902,8 @@
 <p>Skorobishtë	https://www.openstreetmap.org/node/2073413916</p>
 <p>Skëderbeu	https://www.openstreetmap.org/way/359205273</p>
 <p>Skënderbeu	https://www.openstreetmap.org/way/395704526</p>
+<p>Sllakoc i Epërm	https://www.openstreetmap.org/node/4057202330</p>
+<p>Sllakoc i Poshtëm	https://www.openstreetmap.org/node/4057202326</p>
 <p>Sllatinë	https://www.openstreetmap.org/node/3761550921</p>
 <p>Sllatinë e Madhe	https://www.openstreetmap.org/node/2380337859</p>
 <p>Sllatinë e Vogël	https://www.openstreetmap.org/node/2380337899</p>
@@ -964,6 +960,7 @@
 <p>Sylë Tabaku	https://www.openstreetmap.org/way/92412241</p>
 <p>Sylë Zarbinca	https://www.openstreetmap.org/way/218697455</p>
 <p>Sërboc	https://www.openstreetmap.org/node/448735978</p>
+<p>Talinoc i Muhaxherëve	https://www.openstreetmap.org/node/4058704235</p>
 <p>Taukbahçe	https://www.openstreetmap.org/way/281827213</p>
 <p>Te Dëshmorët	https://www.openstreetmap.org/way/394957113</p>
 <p>Tefik Çanga	https://www.openstreetmap.org/way/91435258</p>
@@ -1062,6 +1059,7 @@
 <p>Vrajakë	https://www.openstreetmap.org/node/3418132742</p>
 <p>Vranishtë	https://www.openstreetmap.org/way/223857576</p>
 <p>Vrellë	https://www.openstreetmap.org/node/2380328052</p>
+<p>Vrellë e Goleshit	https://www.openstreetmap.org/node/4057232486</p>
 <p>Vuk Kardzhiç	https://www.openstreetmap.org/node/1018876468</p>
 <p>Vëllazërim dhe bashkim	https://www.openstreetmap.org/node/1705748097</p>
 <p>Vëllezrit Majanci	https://www.openstreetmap.org/way/113806926</p>
