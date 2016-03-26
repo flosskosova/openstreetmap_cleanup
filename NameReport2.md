@@ -154,7 +154,7 @@
 <p>Malishevë	https://www.openstreetmap.org/node/1788921587</p>
 <p>Malji Nečinat	https://www.openstreetmap.org/node/3941596453</p>
 <p>Malji ćeka	https://www.openstreetmap.org/way/392318881</p>
-<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823520</p>
+<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823529</p>
 <p>Martirët Bushi	https://www.openstreetmap.org/way/389447765</p>
 <p>Martirët e Dermjakut	https://www.openstreetmap.org/way/389449732</p>
 <p>Ministria për Komunitete dhe Kthim	https://www.openstreetmap.org/way/387480087</p>
@@ -162,6 +162,7 @@
 <p>Mirosalë	https://www.openstreetmap.org/node/4058704233</p>
 <p>Mishtorja Velekincë	https://www.openstreetmap.org/way/392447156</p>
 <p>Mitrovicë	https://www.openstreetmap.org/node/2093601140</p>
+<p>Mitrovicë - Podujevë	https://www.openstreetmap.org/way/243060972</p>
 <p>Mjakë	https://www.openstreetmap.org/node/3958560466</p>
 <p>Morinë	https://www.openstreetmap.org/node/1905639937</p>
 <p>Muzeqinë	https://www.openstreetmap.org/node/4057251932</p>
@@ -277,6 +278,7 @@
 <p>UNIVERSITETI I SHKENCAVE TE APLIKUARA në FERIZAJ	https://www.openstreetmap.org/way/398989792</p>
 <p>Ujkin krš	https://www.openstreetmap.org/node/3955829669</p>
 <p>Ujëmirë	https://www.openstreetmap.org/node/4000356432</p>
+<p>Universiteti i Shkencave te Aplikuara në Ferizaj	https://www.openstreetmap.org/way/398989792</p>
 <p>Uqë e Poshtmë	https://www.openstreetmap.org/node/371567605</p>
 <p>Ura e Sitnicë	https://www.openstreetmap.org/way/244214892</p>
 <p>Ura e Sitnicës	https://www.openstreetmap.org/way/381004586</p>
@@ -319,6 +321,7 @@
 <p>Çellapek	https://www.openstreetmap.org/node/4069098109</p>
 <p>Çeskovë	https://www.openstreetmap.org/node/3924380398</p>
 <p>Çirez	https://www.openstreetmap.org/node/4029520021</p>
+<p>Çlirimi	https://www.openstreetmap.org/way/281949449</p>
 <p>Çubrel	https://www.openstreetmap.org/node/3921786666</p>
 <p>Ëmbeltore Kaltrina	https://www.openstreetmap.org/way/387007311</p>
 <p>Ćafa Bjelega	https://www.openstreetmap.org/node/3949619931</p>

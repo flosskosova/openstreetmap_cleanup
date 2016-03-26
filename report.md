@@ -137,7 +137,6 @@
 <p>Carrallugë	https://www.openstreetmap.org/node/3138271286</p>
 <p>Celinë	https://www.openstreetmap.org/node/3023414927</p>
 <p>Cerrcë	https://www.openstreetmap.org/node/371567688</p>
-<p>Ceвepнa Косовска Митровица	https://www.openstreetmap.org/node/4024245637</p>
 <p>Cërkolezi	https://www.openstreetmap.org/way/217980474</p>
 <p>Cërmjan	https://www.openstreetmap.org/node/3925463577</p>
 <p>Cërnillë	https://www.openstreetmap.org/node/2508699241</p>
@@ -512,7 +511,7 @@
 <p>Malësi e Re	https://www.openstreetmap.org/node/984522199</p>
 <p>Malësori	https://www.openstreetmap.org/way/371625396</p>
 <p>Mamushë	https://www.openstreetmap.org/node/2060212428</p>
-<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823520</p>
+<p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823529</p>
 <p>Manastiri i Graçanicës	https://www.openstreetmap.org/way/283107375</p>
 <p>Manastiricë	https://www.openstreetmap.org/node/2088201454</p>
 <p>Maqitevë	https://www.openstreetmap.org/node/2058452249</p>
@@ -552,6 +551,7 @@
 <p>Mishtorja Velekincë	https://www.openstreetmap.org/way/392447156</p>
 <p>Mithat Frashëri	https://www.openstreetmap.org/way/91258129</p>
 <p>Mitrovicë	https://www.openstreetmap.org/node/2093601140</p>
+<p>Mitrovicë - Podujevë	https://www.openstreetmap.org/way/243060972</p>
 <p>Mitrovicë-Pejë	https://www.openstreetmap.org/way/185505781</p>
 <p>Mjakë	https://www.openstreetmap.org/node/3958560466</p>
 <p>Mlikë	https://www.openstreetmap.org/way/223857575</p>
@@ -1003,7 +1003,6 @@
 <p>Tërstenik	https://www.openstreetmap.org/node/3936993743</p>
 <p>Tërstenë	https://www.openstreetmap.org/node/3996017961</p>
 <p>Tërthorë	https://www.openstreetmap.org/relation/1248544</p>
-<p>UNIVERSITETI I SHKENCAVE TE APLIKUARA në FERIZAJ	https://www.openstreetmap.org/way/398989792</p>
 <p>Udhëkryqi për Milloshevë	https://www.openstreetmap.org/way/145394783</p>
 <p>Uglarë	https://www.openstreetmap.org/node/448721265</p>
 <p>Ujkin krš	https://www.openstreetmap.org/node/3955829669</p>
@@ -1017,6 +1016,7 @@
 <p>Ukshin Kovaçica	https://www.openstreetmap.org/way/115968863</p>
 <p>Universiteti i Mitrovicës &#34;Isa Boletini&#34;	https://www.openstreetmap.org/way/303385047</p>
 <p>Universiteti i Prishtinës - Fakulteti Filozofik	https://www.openstreetmap.org/node/539459752</p>
+<p>Universiteti i Shkencave te Aplikuara në Ferizaj	https://www.openstreetmap.org/way/398989792</p>
 <p>Uqë	https://www.openstreetmap.org/node/371567611</p>
 <p>Uqë e Poshtmë	https://www.openstreetmap.org/node/371567605</p>
 <p>Uqë e Sipërm	https://www.openstreetmap.org/node/371567616</p>
@@ -1113,7 +1113,7 @@
 <p>Zhdredhë	https://www.openstreetmap.org/node/3924380406</p>
 <p>Zhegër	https://www.openstreetmap.org/node/410698700</p>
 <p>Zoçishtë	https://www.openstreetmap.org/node/1989862834</p>
-<p>Zveçan	https://www.openstreetmap.org/node/1845308007</p>
+<p>Zveçan	https://www.openstreetmap.org/node/1907401314</p>
 <p>Zylfi Çaka	https://www.openstreetmap.org/way/395680136</p>
 <p>Zyra e Rregullatorit për Ujësjellës dhe Mbeturina	https://www.openstreetmap.org/node/1699749618</p>
 <p>Zëri i Atdheut	https://www.openstreetmap.org/way/389449274</p>
@@ -1121,7 +1121,6 @@
 <p>rezalla / prekazi at Bulevardi Mbretëresha Teutë	https://www.openstreetmap.org/way/108537118</p>
 <p>sh.f &#34;Afërdita&#34;	https://www.openstreetmap.org/node/1018814724</p>
 <p>të lala	https://www.openstreetmap.org/way/276829430</p>
-<p>ÇLIRIMI	https://www.openstreetmap.org/way/281949449</p>
 <p>Çabiq	https://www.openstreetmap.org/node/3434400226</p>
 <p>Çabrat	https://www.openstreetmap.org/node/3594126854</p>
 <p>Çagllavicë	https://www.openstreetmap.org/node/2333692377</p>
@@ -1136,6 +1135,7 @@
 <p>Çerdhja - &#34;Ardhmëria&#34;	https://www.openstreetmap.org/node/1426391226</p>
 <p>Çeskovë	https://www.openstreetmap.org/node/3924380398</p>
 <p>Çirez	https://www.openstreetmap.org/node/4029520021</p>
+<p>Çlirimi	https://www.openstreetmap.org/way/281949449</p>
 <p>Çubrel	https://www.openstreetmap.org/node/3921786666</p>
 <p>Ëmbeltore Kaltrina	https://www.openstreetmap.org/way/387007311</p>
 <p>Ëmbeltore Kosova	https://www.openstreetmap.org/way/247458059</p>
@@ -1182,21 +1182,15 @@
 <p>Доње Кормињане	https://www.openstreetmap.org/node/1905560458</p>
 <p>Дренска река	https://www.openstreetmap.org/way/186659420</p>
 <p>Железничка станица Лешак	https://www.openstreetmap.org/way/186659410</p>
-<p>Звечан	https://www.openstreetmap.org/node/1907401314</p>
 <p>Звечански град	https://www.openstreetmap.org/way/177641522</p>
 <p>Злокуќане	https://www.openstreetmap.org/node/1996265373</p>
-<p>Зубин Поток	https://www.openstreetmap.org/node/2183422140</p>
 <p>Ибар	https://www.openstreetmap.org/way/391577946</p>
 <p>Исток	https://www.openstreetmap.org/way/33321143</p>
 <p>Кодра Фура	https://www.openstreetmap.org/node/1986972233</p>
 <p>Кормињан	https://www.openstreetmap.org/node/3195863010</p>
-<p>Косовска Митровица - Подујево	https://www.openstreetmap.org/way/108537858</p>
 <p>Лепенец	https://www.openstreetmap.org/relation/5900732</p>
-<p>Лепосавић	https://www.openstreetmap.org/node/448739405</p>
 <p>Лепосавска река	https://www.openstreetmap.org/node/448558205</p>
-<p>Луг	https://www.openstreetmap.org/way/229208464</p>
 <p>Македонија	https://www.openstreetmap.org/relation/53293</p>
-<p>Манастир Високи Дечани	https://www.openstreetmap.org/way/223823529</p>
 <p>Миланов врх	https://www.openstreetmap.org/node/26863697</p>
 <p>Новобрдска тврђава	https://www.openstreetmap.org/node/4028424243</p>
 <p>Општина Ѓорче Петров	https://www.openstreetmap.org/relation/2440352</p>
