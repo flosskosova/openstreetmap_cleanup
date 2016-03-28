@@ -4,6 +4,7 @@
       1 "babskast" changeset
       1 "Bejta" changeset
       1 "Bessian" changeset
+      1 "Betim Xharra" changeset
       1 "BlendKrasniqi" changeset
       1 "brogo" changeset
       1 "bsalihu" changeset
@@ -40,6 +41,7 @@
       1 "Somarg" changeset
       1 "SomeoneElse_Revert" changeset
       1 "thetornado76" changeset
+      1 "Toppazz" changeset
       1 "trump98" changeset
       1 "Val Shala" changeset
       1 "Whitelion808" changeset
@@ -120,7 +122,6 @@
      14 "Jkos" changeset
      14 "Kingks45" changeset
      14 "OSMF Redaction Account" changeset
-     14 "SomeoneElse" changeset
      15 "dromedar" changeset
      15 "inthenameofmine" changeset
      16 "axo" changeset
@@ -136,6 +137,7 @@
      28 "Lekos" changeset
      29 "rando67" changeset
      30 "James Michael DuPont" changeset
+     30 "SomeoneElse" changeset
      31 "Arpagjiki" changeset
      31 "borces" changeset
      37 "Altin" changeset
@@ -158,8 +160,8 @@
      69 "ratrun" changeset
      77 "__________Aldrin__________" changeset
      78 "lxbarth" changeset
-     80 "meti" changeset
      85 "Rps333" changeset
+     90 "meti" changeset
     108 "Shpend Bakalli" changeset
     111 "malta-dinger" changeset
     116 "Spanholz" changeset
@@ -176,11 +178,11 @@
     405 "venerdi" changeset
     486 "enis" changeset
     546 "mpele" changeset
-    556 "Yll Ferizi" changeset
     566 "bigalxyz123" changeset
     651 "yfrtx" changeset
     679 "arhijakon" changeset
-    791 "ValdrinGashi" changeset
+    806 "ValdrinGashi" changeset
+    992 "Yll Ferizi" changeset
    1016 "pyram" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
@@ -191,4 +193,4 @@
    4722 "kragon77" changeset
    5458 "corpsegroom" changeset
    8670 "RIVERLIM" changeset
-  27055 "MarcKosova" changeset
+  27847 "MarcKosova" changeset

@@ -43,6 +43,7 @@
 <p>Desivojcë	https://www.openstreetmap.org/node/3996017557</p>
 <p>Deçan	https://www.openstreetmap.org/node/1839805748</p>
 <p>Dheu i Bardhë	https://www.openstreetmap.org/way/389447074</p>
+<p>Dikancë	https://www.openstreetmap.org/node/453335053</p>
 <p>Dobratinë	https://www.openstreetmap.org/node/371547325</p>
 <p>Dollovë	https://www.openstreetmap.org/node/3924380397</p>
 <p>Drini i Bardhë	https://www.openstreetmap.org/way/172322841</p>
@@ -164,6 +165,7 @@
 <p>Mitrovicë	https://www.openstreetmap.org/node/2093601140</p>
 <p>Mitrovicë - Podujevë	https://www.openstreetmap.org/way/243060972</p>
 <p>Mjakë	https://www.openstreetmap.org/node/3958560466</p>
+<p>Mlikë	https://www.openstreetmap.org/node/1839585365</p>
 <p>Morinë	https://www.openstreetmap.org/node/1905639937</p>
 <p>Muzeqinë	https://www.openstreetmap.org/node/4057251932</p>
 <p>Muçibabë	https://www.openstreetmap.org/node/3458978670</p>
@@ -178,6 +180,7 @@
 <p>Opština Berane	https://www.openstreetmap.org/relation/2319359</p>
 <p>Opština Plav	https://www.openstreetmap.org/relation/2317882</p>
 <p>Opština Rožaje	https://www.openstreetmap.org/relation/2317936</p>
+<p>Pallati i Drejtësisë	https://www.openstreetmap.org/way/405720876</p>
 <p>Parallovë	https://www.openstreetmap.org/node/4069098106</p>
 <p>Parku , Kaçanik	https://www.openstreetmap.org/node/3908315435</p>
 <p>Parku Kombëtar &quot;Bjeshkët e Nemuna të Kosovës&quot;	https://www.openstreetmap.org/way/377710168</p>
@@ -185,6 +188,7 @@
 <p>Parku Kombëtar &quot;Malet e Sharrit&quot;	https://www.openstreetmap.org/node/3979022741</p>
 <p>Parku i Blinajës	https://www.openstreetmap.org/way/388768042</p>
 <p>Parku i Lirisë	https://www.openstreetmap.org/way/403522438</p>
+<p>Partiarkana e Pejës	https://www.openstreetmap.org/way/223825034</p>
 <p>Pataçan i Poshtëm	https://www.openstreetmap.org/node/3418132740</p>
 <p>Pejë	https://www.openstreetmap.org/node/3075195901</p>
 <p>Pećka Bistrica	https://www.openstreetmap.org/way/391070458</p>
@@ -200,6 +204,7 @@
 <p>Prelluzhë	https://www.openstreetmap.org/node/3870849664</p>
 <p>Pridvoricë	https://www.openstreetmap.org/node/2301679213</p>
 <p>Prishtinë	https://www.openstreetmap.org/node/2885136501</p>
+<p>Prishtinë-Gjilan	https://www.openstreetmap.org/way/150542010</p>
 <p>Proni i Škodres	https://www.openstreetmap.org/way/391014779</p>
 <p>Prčin brijeg	https://www.openstreetmap.org/node/3941940788</p>
 <p>Pus i Škalt	https://www.openstreetmap.org/node/3941866842</p>
@@ -228,6 +233,7 @@
 <p>SHMP “Feriz Guri e Vëllezërit Çaka”  Voskopoja	https://www.openstreetmap.org/way/372129229</p>
 <p>Sach Caffé	https://www.openstreetmap.org/node/3886361984</p>
 <p>Sadik Çaka	https://www.openstreetmap.org/way/387892182</p>
+<p>Samadraxhë	https://www.openstreetmap.org/node/1989862840</p>
 <p>Samadrexhë	https://www.openstreetmap.org/node/3901232265</p>
 <p>Sfarçak i Epërm	https://www.openstreetmap.org/node/3901197846</p>
 <p>Sfarçak i Poshtëm	https://www.openstreetmap.org/node/3901240280</p>
@@ -256,6 +262,7 @@
 <p>Stacioni i Autobusave  Kaçanik	https://www.openstreetmap.org/way/372126772</p>
 <p>Stacioni i Policisë	https://www.openstreetmap.org/way/371721065</p>
 <p>Stacioni i Trenit Banjskë	https://www.openstreetmap.org/way/186659403</p>
+<p>Stadiumi i Qytetit - Prishtinë	https://www.openstreetmap.org/way/125489580</p>
 <p>Stagovë	https://www.openstreetmap.org/node/448550840</p>
 <p>Stanofc i Epërm	https://www.openstreetmap.org/node/3870859066</p>
 <p>Stanofc i Ulët	https://www.openstreetmap.org/node/3870849665</p>
