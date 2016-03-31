@@ -89,7 +89,6 @@
       5 "Maarten Deen" changeset
       5 "SunCobalt" changeset
       6 "Blerim H Berisha" changeset
-      6 "fenrisster" changeset
       6 "glibbertorsten" changeset
       6 "Gums" changeset
       6 "kosovastar" changeset
@@ -101,9 +100,9 @@
       7 "JoeG" changeset
       7 "SuhelAhmeti" changeset
       8 "dkiselev" changeset
+      8 "fenrisster" changeset
       8 "Hekuran Maliqi" changeset
       8 "Opaky" changeset
-      8 "RichRico" changeset
       8 "xmd5a" changeset
       8 "عقبة بن نافع" changeset
       9 "samely" changeset
@@ -112,6 +111,7 @@
      10 "Christoph Lotz" changeset
      10 "Ori952" changeset
      10 "Peki1980" changeset
+     10 "RichRico" changeset
      11 "Foska" changeset
      11 "Luis36995" changeset
      13 "calfarome" changeset
@@ -162,7 +162,7 @@
      78 "lxbarth" changeset
      85 "Rps333" changeset
      89 "Arianit" changeset
-     90 "meti" changeset
+     92 "meti" changeset
     108 "Shpend Bakalli" changeset
     111 "malta-dinger" changeset
     116 "Spanholz" changeset
@@ -182,9 +182,9 @@
     566 "bigalxyz123" changeset
     651 "yfrtx" changeset
     679 "arhijakon" changeset
-    849 "ValdrinGashi" changeset
     992 "Yll Ferizi" changeset
    1016 "pyram" changeset
+   1016 "ValdrinGashi" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
    1634 "__________AC26__________" changeset
@@ -194,4 +194,4 @@
    4722 "kragon77" changeset
    5458 "corpsegroom" changeset
    8670 "RIVERLIM" changeset
-  27847 "MarcKosova" changeset
+  28292 "MarcKosova" changeset

@@ -181,7 +181,7 @@
 <p>Novobërdë	https://www.openstreetmap.org/node/3996071088</p>
 <p>Novobërdë/Artanë	https://www.openstreetmap.org/node/3996071088</p>
 <p>Novosellë	https://www.openstreetmap.org/node/371571929</p>
-<p>Nëna Terezë	https://www.openstreetmap.org/way/131411393</p>
+<p>Nëna Terezë	https://www.openstreetmap.org/way/215900689</p>
 <p>Nënë Tereza	https://www.openstreetmap.org/way/222089432</p>
 <p>Opština Berane	https://www.openstreetmap.org/relation/2319359</p>
 <p>Opština Plav	https://www.openstreetmap.org/relation/2317882</p>
