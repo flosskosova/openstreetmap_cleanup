@@ -5,6 +5,7 @@
 <p>Abrijë e poshtme	https://www.openstreetmap.org/node/4000356530</p>
 <p>Adžovića rijeka	https://www.openstreetmap.org/way/391067173</p>
 <p>Aeroporti Ndërkombëtar i Prishtinës &quot;Adem Jashari&quot;	https://www.openstreetmap.org/way/292210152</p>
+<p>Ambasada e Shteteve të Bashkurara në Prishtinë (në ndërtim)	https://www.openstreetmap.org/way/326453233</p>
 <p>Aqarevë	https://www.openstreetmap.org/node/4000356431</p>
 <p>Ardianët	https://www.openstreetmap.org/way/114681931</p>
 <p>Auto Kaçandolli	https://www.openstreetmap.org/way/185141193</p>
@@ -14,8 +15,10 @@
 <p>Bajë	https://www.openstreetmap.org/node/371567646</p>
 <p>Banjskë	https://www.openstreetmap.org/node/1845301794</p>
 <p>Banullë	https://www.openstreetmap.org/node/371547327</p>
+<p>Barilevë	https://www.openstreetmap.org/node/4081920163</p>
 <p>Baza e Novosellës	https://www.openstreetmap.org/way/243270897</p>
 <p>Bellobërdë	https://www.openstreetmap.org/node/1907509126</p>
+<p>Bellopojë	https://www.openstreetmap.org/node/4082625465</p>
 <p>Besianë/Podujevë	https://www.openstreetmap.org/node/299447753</p>
 <p>Beteja e Kaçanikut	https://www.openstreetmap.org/way/371608156</p>
 <p>Bicë	https://www.openstreetmap.org/node/3921781551</p>
@@ -106,6 +109,7 @@
 <p>Kaçanik-Ferizaj	https://www.openstreetmap.org/way/90636930</p>
 <p>Kaçanik-Ferizaj-Prishtinë	https://www.openstreetmap.org/node/3992603033</p>
 <p>Kaçanik-Hani i Elezit-Shkup	https://www.openstreetmap.org/node/3992603032</p>
+<p>Kaçibeg	https://www.openstreetmap.org/node/4081920168</p>
 <p>Klinë	https://www.openstreetmap.org/node/430705589</p>
 <p>Klinë e Mesme	https://www.openstreetmap.org/node/4046727851</p>
 <p>Klinë e Poshtme	https://www.openstreetmap.org/node/4046727850</p>
@@ -142,12 +146,14 @@
 <p>Llanishtë	https://www.openstreetmap.org/node/3761568011</p>
 <p>Llapnasellë	https://www.openstreetmap.org/node/2380337821</p>
 <p>Llaushë	https://www.openstreetmap.org/node/4000360557</p>
+<p>Llugë	https://www.openstreetmap.org/node/4081920169</p>
 <p>Lubishtë	https://www.openstreetmap.org/node/2401263785</p>
 <p>Lumbardh i Pejës	https://www.openstreetmap.org/way/391030731</p>
 <p>Lumbardhi i Deçanit	https://www.openstreetmap.org/way/185408657</p>
 <p>Lumbardhi i Pejës	https://www.openstreetmap.org/way/391030778</p>
 <p>Lumi i Pejës	https://www.openstreetmap.org/way/216663900</p>
 <p>Lumi i Sekularskës	https://www.openstreetmap.org/way/216673945</p>
+<p>Lupçi i poshtëm	https://www.openstreetmap.org/node/4081920165</p>
 <p>Lučanski stanovi / Radafc	https://www.openstreetmap.org/node/710708633</p>
 <p>Maja e Argjendë	https://www.openstreetmap.org/node/470378461</p>
 <p>Maja e Ćunđeve	https://www.openstreetmap.org/node/3955456191</p>
@@ -217,6 +223,7 @@
 <p>Republika e Kosovës	https://www.openstreetmap.org/relation/2088990</p>
 <p>Rezidenca Çaka	https://www.openstreetmap.org/node/3756760674</p>
 <p>Ropicë	https://www.openstreetmap.org/node/3900599930</p>
+<p>Rruga &quot;UÇK&quot;	https://www.openstreetmap.org/way/406003031</p>
 <p>Rruga Lipovicët	https://www.openstreetmap.org/way/280198343</p>
 <p>Rruga Muhaxhirët	https://www.openstreetmap.org/way/230439003</p>
 <p>Rruga Preshevës	https://www.openstreetmap.org/way/230227411</p>
@@ -237,6 +244,7 @@
 <p>Samadrexhë	https://www.openstreetmap.org/node/3901232265</p>
 <p>Sfarçak i Epërm	https://www.openstreetmap.org/node/3901197846</p>
 <p>Sfarçak i Poshtëm	https://www.openstreetmap.org/node/3901240280</p>
+<p>Shakovicë	https://www.openstreetmap.org/node/4081920166</p>
 <p>Sheshi i Lirisë	https://www.openstreetmap.org/way/143497245</p>
 <p>Shkolla Fillore &quot;Dëshmorët e Bobit&quot;	https://www.openstreetmap.org/way/372127516</p>
 <p>Shkolla Fillore &quot;Shkëndija&quot;	https://www.openstreetmap.org/way/404360221</p>
@@ -253,6 +261,8 @@
 <p>Shtëpia e Shpresës	https://www.openstreetmap.org/way/372129234</p>
 <p>Shushicë	https://www.openstreetmap.org/node/352997418</p>
 <p>Shushtë	https://www.openstreetmap.org/node/3958560467</p>
+<p>Siboc i Epërm	https://www.openstreetmap.org/node/4081920172</p>
+<p>Siboc i Poshtëm	https://www.openstreetmap.org/node/4081920171</p>
 <p>Skënderbeu	https://www.openstreetmap.org/way/395704526</p>
 <p>Sllakoc i Epërm	https://www.openstreetmap.org/node/4057202330</p>
 <p>Sllakoc i Poshtëm	https://www.openstreetmap.org/node/4057202326</p>
@@ -280,6 +290,7 @@
 <p>Turiçec	https://www.openstreetmap.org/node/3921781553</p>
 <p>Tërbufc	https://www.openstreetmap.org/node/4069098105</p>
 <p>Tërrnava	https://www.openstreetmap.org/way/379911282</p>
+<p>Tërrnavë	https://www.openstreetmap.org/node/4082625466</p>
 <p>Tërstenik	https://www.openstreetmap.org/node/3936993743</p>
 <p>Tërstenë	https://www.openstreetmap.org/node/3996017961</p>
 <p>UNIVERSITETI I SHKENCAVE TE APLIKUARA në FERIZAJ	https://www.openstreetmap.org/way/398989792</p>

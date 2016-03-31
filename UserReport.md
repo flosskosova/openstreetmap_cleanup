@@ -9,7 +9,6 @@
       1 "brogo" changeset
       1 "bsalihu" changeset
       1 "bylent" changeset
-      1 "deam93" changeset
       1 "DFae" changeset
       1 "enco" changeset
       1 "faikberisha" changeset
@@ -29,6 +28,7 @@
       1 "Montenegro" changeset
       1 "navmaps_eu" changeset
       1 "ndrichimi" changeset
+      1 "newpavlov" changeset
       1 "nikolakis" changeset
       1 "Pedja" changeset
       1 "petrithoxha" changeset
@@ -74,7 +74,7 @@
       3 "pavlina88" changeset
       3 "Unpocoloco" changeset
       3 "wheelmap_visitor" changeset
-      4 "fenrisster" changeset
+      4 "deam93" changeset
       4 "fpm#" changeset
       4 "Helmchen42" changeset
       4 "hofoen" changeset
@@ -89,6 +89,7 @@
       5 "Maarten Deen" changeset
       5 "SunCobalt" changeset
       6 "Blerim H Berisha" changeset
+      6 "fenrisster" changeset
       6 "glibbertorsten" changeset
       6 "Gums" changeset
       6 "kosovastar" changeset
@@ -153,14 +154,14 @@
      52 "gvil" changeset
      52 "Katrori" changeset
      57 "avni tusha" changeset
-     59 "Arianit" changeset
      59 "pg303" changeset
      64 "AC26" changeset
-     69 "Krawujewatz" changeset
      69 "ratrun" changeset
+     71 "Krawujewatz" changeset
      77 "__________Aldrin__________" changeset
      78 "lxbarth" changeset
      85 "Rps333" changeset
+     89 "Arianit" changeset
      90 "meti" changeset
     108 "Shpend Bakalli" changeset
     111 "malta-dinger" changeset
@@ -181,7 +182,7 @@
     566 "bigalxyz123" changeset
     651 "yfrtx" changeset
     679 "arhijakon" changeset
-    806 "ValdrinGashi" changeset
+    849 "ValdrinGashi" changeset
     992 "Yll Ferizi" changeset
    1016 "pyram" changeset
    1274 "mustermannxx" changeset
