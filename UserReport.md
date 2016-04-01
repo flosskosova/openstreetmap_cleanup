@@ -71,6 +71,7 @@
       3 "bmog" changeset
       3 "DenisJu" changeset
       3 "ediyes" changeset
+      3 "luschi" changeset
       3 "pavlina88" changeset
       3 "Unpocoloco" changeset
       3 "wheelmap_visitor" changeset
@@ -100,11 +101,11 @@
       7 "JoeG" changeset
       7 "SuhelAhmeti" changeset
       8 "dkiselev" changeset
-      8 "fenrisster" changeset
       8 "Hekuran Maliqi" changeset
       8 "Opaky" changeset
       8 "xmd5a" changeset
       8 "عقبة بن نافع" changeset
+      9 "fenrisster" changeset
       9 "samely" changeset
       9 "xenomK" changeset
      10 "BeratPreniqi" changeset
@@ -112,17 +113,17 @@
      10 "Ori952" changeset
      10 "Peki1980" changeset
      10 "RichRico" changeset
-     11 "Foska" changeset
      11 "Luis36995" changeset
-     13 "calfarome" changeset
      13 "Erdis" changeset
      13 "FvGordon" changeset
      13 "Qamil Plakaj" changeset
      14 "Batareikin" changeset
      14 "crv303" changeset
+     14 "Foska" changeset
      14 "Jkos" changeset
      14 "Kingks45" changeset
      14 "OSMF Redaction Account" changeset
+     15 "calfarome" changeset
      15 "dromedar" changeset
      15 "inthenameofmine" changeset
      16 "axo" changeset
@@ -184,14 +185,14 @@
     679 "arhijakon" changeset
     992 "Yll Ferizi" changeset
    1016 "pyram" changeset
-   1016 "ValdrinGashi" changeset
+   1068 "ValdrinGashi" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
    1634 "__________AC26__________" changeset
    2151 "Aldrin   C" changeset
    2208 "Hendrikklaas" changeset
    2946 "BesfortGuri" changeset
-   4722 "kragon77" changeset
+   4730 "kragon77" changeset
    5458 "corpsegroom" changeset
-   8670 "RIVERLIM" changeset
-  28292 "MarcKosova" changeset
+   8679 "RIVERLIM" changeset
+  28333 "MarcKosova" changeset

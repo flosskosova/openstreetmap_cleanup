@@ -24,6 +24,7 @@
 <p>Bicë	https://www.openstreetmap.org/node/3921781551</p>
 <p>Bijela česma	https://www.openstreetmap.org/node/3949625614</p>
 <p>Bistricë	https://www.openstreetmap.org/node/3929478459</p>
+<p>Bogë (Kosova) - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Bogë - Glođija (Montenegro)	https://www.openstreetmap.org/way/212861499</p>
 <p>Border Albania -  Србија	https://www.openstreetmap.org/way/204317665</p>
 <p>Border Albania - Србија	https://www.openstreetmap.org/way/204317662</p>
@@ -186,6 +187,7 @@
 <p>Opština Berane	https://www.openstreetmap.org/relation/2319359</p>
 <p>Opština Plav	https://www.openstreetmap.org/relation/2317882</p>
 <p>Opština Rožaje	https://www.openstreetmap.org/relation/2317936</p>
+<p>Paddy O´Briens Pub	https://www.openstreetmap.org/way/125540950</p>
 <p>Pallati i Drejtësisë	https://www.openstreetmap.org/way/405720876</p>
 <p>Parallovë	https://www.openstreetmap.org/node/4069098106</p>
 <p>Parku , Kaçanik	https://www.openstreetmap.org/node/3908315435</p>
@@ -195,6 +197,7 @@
 <p>Parku i Blinajës	https://www.openstreetmap.org/way/388768042</p>
 <p>Parku i Lirisë	https://www.openstreetmap.org/way/403522438</p>
 <p>Partiarkana e Pejës	https://www.openstreetmap.org/way/223825034</p>
+<p>Pastaselë	https://www.openstreetmap.org/node/3418132744</p>
 <p>Pataçan i Poshtëm	https://www.openstreetmap.org/node/3418132740</p>
 <p>Pejë	https://www.openstreetmap.org/node/3075195901</p>
 <p>Pećka Bistrica	https://www.openstreetmap.org/way/391070458</p>
