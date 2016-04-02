@@ -34,6 +34,7 @@
 <p>Borovë	https://www.openstreetmap.org/node/3929487257</p>
 <p>Braina e Vogël	https://www.openstreetmap.org/node/2226186187</p>
 <p>Brezovicë	https://www.openstreetmap.org/node/3255575289</p>
+<p>Bulevardi Nëna Tereze	https://www.openstreetmap.org/way/356214061</p>
 <p>Burojë	https://www.openstreetmap.org/node/3921781550</p>
 <p>Bushatë	https://www.openstreetmap.org/node/3419246701</p>
 <p>Buçaj SH.P.K.	https://www.openstreetmap.org/way/180825610</p>
@@ -323,6 +324,7 @@
 <p>Vila Oxygen - Kuqishtë - Rugovë	https://www.openstreetmap.org/node/3984369530</p>
 <p>Vranishtë	https://www.openstreetmap.org/way/223857576</p>
 <p>Vrellë e Goleshit	https://www.openstreetmap.org/node/4057232486</p>
+<p>Vëllezërit Fazliu	https://www.openstreetmap.org/way/144928667</p>
 <p>Vëllezërit Çaka	https://www.openstreetmap.org/way/376844931</p>
 <p>Vërben	https://www.openstreetmap.org/node/3958563401</p>
 <p>Vërbicë e Zhegocit	https://www.openstreetmap.org/node/4069098100</p>

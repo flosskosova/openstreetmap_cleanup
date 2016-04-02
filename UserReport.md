@@ -68,13 +68,13 @@
       2 "Runis" changeset
       2 "To11" changeset
       3 "ArizonaMapper" changeset
-      3 "bmog" changeset
       3 "DenisJu" changeset
       3 "ediyes" changeset
       3 "luschi" changeset
       3 "pavlina88" changeset
       3 "Unpocoloco" changeset
       3 "wheelmap_visitor" changeset
+      4 "bmog" changeset
       4 "deam93" changeset
       4 "fpm#" changeset
       4 "Helmchen42" changeset
@@ -123,10 +123,10 @@
      14 "Jkos" changeset
      14 "Kingks45" changeset
      14 "OSMF Redaction Account" changeset
-     15 "calfarome" changeset
      15 "dromedar" changeset
      15 "inthenameofmine" changeset
      16 "axo" changeset
+     16 "calfarome" changeset
      16 "Christophorus" changeset
      16 "pitscheplatsch" changeset
      16 "Константин Коцев" changeset
@@ -175,7 +175,7 @@
     209 "SunCobalt_import" changeset
     244 "Toyota_79" changeset
     255 "SU-47" changeset
-    301 "malenki" changeset
+    302 "malenki" changeset
     374 "bdiscoe" changeset
     405 "venerdi" changeset
     486 "enis" changeset
@@ -185,7 +185,7 @@
     679 "arhijakon" changeset
     992 "Yll Ferizi" changeset
    1016 "pyram" changeset
-   1068 "ValdrinGashi" changeset
+   1071 "ValdrinGashi" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
    1634 "__________AC26__________" changeset
@@ -195,4 +195,4 @@
    4730 "kragon77" changeset
    5458 "corpsegroom" changeset
    8679 "RIVERLIM" changeset
-  28333 "MarcKosova" changeset
+  29244 "MarcKosova" changeset
