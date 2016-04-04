@@ -112,6 +112,7 @@
 <p>Kaçanik-Ferizaj-Prishtinë	https://www.openstreetmap.org/node/3992603033</p>
 <p>Kaçanik-Hani i Elezit-Shkup	https://www.openstreetmap.org/node/3992603032</p>
 <p>Kaçibeg	https://www.openstreetmap.org/node/4081920168</p>
+<p>Kisha e Shën Premtës/Bogorodica Ljeviška	https://www.openstreetmap.org/way/223660159</p>
 <p>Klinë	https://www.openstreetmap.org/node/430705589</p>
 <p>Klinë e Mesme	https://www.openstreetmap.org/node/4046727851</p>
 <p>Klinë e Poshtme	https://www.openstreetmap.org/node/4046727850</p>
@@ -132,10 +133,12 @@
 <p>Kroni i Mađupit	https://www.openstreetmap.org/node/3955505670</p>
 <p>Kroni i Đeljošit	https://www.openstreetmap.org/node/3955661390</p>
 <p>Kroni i đelit	https://www.openstreetmap.org/node/3955662154</p>
+<p>Krumë	https://www.openstreetmap.org/relation/1248557</p>
 <p>Krushë e Madhe - Rahovec	https://www.openstreetmap.org/way/354272421</p>
 <p>Krčmar	https://www.openstreetmap.org/way/44225634</p>
 <p>Krši i rugs	https://www.openstreetmap.org/way/392331600</p>
 <p>Kufiri Kosovë Serbi	https://www.openstreetmap.org/node/1050170871</p>
+<p>Kukës	https://www.openstreetmap.org/relation/1759889</p>
 <p>Kushtrimi i Lirisë	https://www.openstreetmap.org/way/389445123</p>
 <p>Kuvendi Komunal i Gracanicës	https://www.openstreetmap.org/way/314343209</p>
 <p>Lagja e Bilinicëve	https://www.openstreetmap.org/node/4069098102</p>
@@ -164,6 +167,7 @@
 <p>Malji Nečinat	https://www.openstreetmap.org/node/3941596453</p>
 <p>Malji ćeka	https://www.openstreetmap.org/way/392318881</p>
 <p>Manastiri i Deçanit	https://www.openstreetmap.org/way/223823529</p>
+<p>Manastiri i Graçanicës	https://www.openstreetmap.org/way/283107375</p>
 <p>Martirët Bushi	https://www.openstreetmap.org/way/389447765</p>
 <p>Martirët e Dermjakut	https://www.openstreetmap.org/way/389449732</p>
 <p>Ministria për Komunitete dhe Kthim	https://www.openstreetmap.org/way/387480087</p>
@@ -201,6 +205,7 @@
 <p>Pastaselë	https://www.openstreetmap.org/node/3418132744</p>
 <p>Pataçan i Poshtëm	https://www.openstreetmap.org/node/3418132740</p>
 <p>Pejë	https://www.openstreetmap.org/node/3075195901</p>
+<p>Pendë i Gazivodës	https://www.openstreetmap.org/way/186896649</p>
 <p>Pećka Bistrica	https://www.openstreetmap.org/way/391070458</p>
 <p>Pishat Sllatinë	https://www.openstreetmap.org/way/97192182</p>
 <p>Pishat e Sllatinës	https://www.openstreetmap.org/way/97192182</p>
@@ -286,6 +291,7 @@
 <p>Suvo smrče	https://www.openstreetmap.org/way/391029376</p>
 <p>Sylë Paloja	https://www.openstreetmap.org/way/235323608</p>
 <p>Talinoc i Muhaxherëve	https://www.openstreetmap.org/node/4058704235</p>
+<p>Taukbahçe	https://www.openstreetmap.org/way/39145029</p>
 <p>Te Dëshmorët	https://www.openstreetmap.org/way/394957113</p>
 <p>Therandë	https://www.openstreetmap.org/node/1836571291</p>
 <p>Therandë/Suharekë	https://www.openstreetmap.org/node/1836571291</p>
@@ -328,6 +334,7 @@
 <p>Vëllezërit Çaka	https://www.openstreetmap.org/way/376844931</p>
 <p>Vërben	https://www.openstreetmap.org/node/3958563401</p>
 <p>Vërbicë e Zhegocit	https://www.openstreetmap.org/node/4069098100</p>
+<p>Vërnicë	https://www.openstreetmap.org/node/4095381317</p>
 <p>Xhamia e Fshatiti Velekincë	https://www.openstreetmap.org/way/280199570</p>
 <p>Xhamia e Fushë Kosovës	https://www.openstreetmap.org/way/387609795</p>
 <p>Xhamia e Radeshës	https://www.openstreetmap.org/node/1902376823</p>
@@ -368,11 +375,13 @@
 <p>Биначка Морава	https://www.openstreetmap.org/way/338757410</p>
 <p>Вучитрн	https://www.openstreetmap.org/node/448726882</p>
 <p>Град Лесковац	https://www.openstreetmap.org/relation/2860164</p>
+<p>Град Скопје	https://www.openstreetmap.org/relation/2439740</p>
 <p>Гњилане	https://www.openstreetmap.org/node/299448609</p>
 <p>Дечани	https://www.openstreetmap.org/node/1839805748</p>
 <p>Доморовце	https://www.openstreetmap.org/node/1905560455</p>
 <p>Доње Кормињане	https://www.openstreetmap.org/node/1905560458</p>
 <p>Звечан	https://www.openstreetmap.org/node/1907401314</p>
+<p>Звечански град	https://www.openstreetmap.org/way/177641522</p>
 <p>Зубин Поток	https://www.openstreetmap.org/node/2183422140</p>
 <p>Ибар	https://www.openstreetmap.org/way/391577946</p>
 <p>Исток	https://www.openstreetmap.org/node/3031511862</p>
@@ -391,6 +400,7 @@
 <p>Општина Гостивар	https://www.openstreetmap.org/relation/2615530</p>
 <p>Општина Куршумлија	https://www.openstreetmap.org/relation/2863768</p>
 <p>Општина Лебане	https://www.openstreetmap.org/relation/2860305</p>
+<p>Општина Липково	https://www.openstreetmap.org/relation/2585376</p>
 <p>Општина Медвеђа	https://www.openstreetmap.org/relation/2860306</p>
 <p>Општина Тетово	https://www.openstreetmap.org/relation/2615182</p>
 <p>Општина Тутин	https://www.openstreetmap.org/relation/2867385</p>
@@ -418,6 +428,7 @@
 <p>државни пут IБ реда 31	https://www.openstreetmap.org/relation/3400858</p>
 <p>државни пут IБ реда 35	https://www.openstreetmap.org/relation/3412013</p>
 <p>државни пут IБ реда 39	https://www.openstreetmap.org/relation/3412023</p>
+<p>државни пут IБ реда 41	https://www.openstreetmap.org/relation/3388433</p>
 <p>манастир Високи Дечани	https://www.openstreetmap.org/way/223823520</p>
 <p>радар	https://www.openstreetmap.org/way/400234107</p>
 </html>
