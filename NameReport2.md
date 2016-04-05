@@ -152,6 +152,7 @@
 <p>Llapnasellë	https://www.openstreetmap.org/node/2380337821</p>
 <p>Llaushë	https://www.openstreetmap.org/node/4000360557</p>
 <p>Llugë	https://www.openstreetmap.org/node/4081920169</p>
+<p>Lotë Veku	https://www.openstreetmap.org/way/49939934</p>
 <p>Lubishtë	https://www.openstreetmap.org/node/2401263785</p>
 <p>Lumbardh i Pejës	https://www.openstreetmap.org/way/391030731</p>
 <p>Lumbardhi i Deçanit	https://www.openstreetmap.org/way/185408657</p>

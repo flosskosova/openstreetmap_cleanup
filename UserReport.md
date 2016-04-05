@@ -1,4 +1,5 @@
       1 "abajrami" changeset
+      1 "abel801" changeset
       1 "andi2911" changeset
       1 "ardiana" changeset
       1 "babskast" changeset
@@ -18,6 +19,7 @@
       1 "Janjko" changeset
       1 "Joe E" changeset
       1 "katpatuka" changeset
+      1 "krasniqikushtrim1992" changeset
       1 "labinot" changeset
       1 "letsdoitkosova" changeset
       1 "Linndy&apos;" changeset
@@ -74,9 +76,11 @@
       3 "luschi" changeset
       3 "pavlina88" changeset
       3 "Unpocoloco" changeset
+      3 "ValdrinMaliqi" changeset
       3 "wheelmap_visitor" changeset
       4 "bmog" changeset
       4 "deam93" changeset
+      4 "edonmaliqi" changeset
       4 "fpm#" changeset
       4 "Helmchen42" changeset
       4 "hofoen" changeset
@@ -108,7 +112,6 @@
       8 "xmd5a" changeset
       8 "عقبة بن نافع" changeset
       9 "fenrisster" changeset
-      9 "samely" changeset
       9 "xenomK" changeset
      10 "BeratPreniqi" changeset
      10 "Christoph Lotz" changeset
@@ -116,6 +119,7 @@
      10 "Peki1980" changeset
      10 "RichRico" changeset
      11 "Luis36995" changeset
+     11 "Stefan293" changeset
      13 "Erdis" changeset
      13 "FvGordon" changeset
      13 "Qamil Plakaj" changeset
@@ -125,6 +129,7 @@
      14 "Jkos" changeset
      14 "Kingks45" changeset
      14 "OSMF Redaction Account" changeset
+     14 "samely" changeset
      15 "dromedar" changeset
      15 "inthenameofmine" changeset
      16 "axo" changeset
@@ -137,6 +142,8 @@
      19 "NJAZI RAMADANI" changeset
      19 "ruph" changeset
      21 "armandalex" changeset
+     21 "Linaa" changeset
+     21 "majlindehoxha" changeset
      25 "easyX" changeset
      26 "Wikidata" changeset
      28 "Lekos" changeset
@@ -147,6 +154,7 @@
      31 "borces" changeset
      37 "Altin" changeset
      38 "woodpeck_repair" changeset
+     39 "blerim basha" changeset
      41 "srividya_c" changeset
      44 "xperiamuslim" changeset
      45 "landfahrer" changeset
@@ -188,14 +196,14 @@
     679 "arhijakon" changeset
     992 "Yll Ferizi" changeset
    1016 "pyram" changeset
-   1071 "ValdrinGashi" changeset
+   1072 "ValdrinGashi" changeset
    1274 "mustermannxx" changeset
    1503 "Ymer Hyseni" changeset
    1634 "__________AC26__________" changeset
    2151 "Aldrin   C" changeset
    2208 "Hendrikklaas" changeset
-   2975 "BesfortGuri" changeset
-   4730 "kragon77" changeset
+   3098 "BesfortGuri" changeset
+   4733 "kragon77" changeset
    5458 "corpsegroom" changeset
    8679 "RIVERLIM" changeset
-  30542 "MarcKosova" changeset
+  30776 "MarcKosova" changeset
