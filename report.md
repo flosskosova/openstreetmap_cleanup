@@ -11,6 +11,7 @@
 <p>Agjencia Kosovare Kundër Korrupsionit	https://www.openstreetmap.org/node/1699718120</p>
 <p>Agjencia Kosovare e Pronës	https://www.openstreetmap.org/way/128630452</p>
 <p>Akademia e Shkencave dhe e Arteve e Kosovës	https://www.openstreetmap.org/way/104163450</p>
+<p>Akrashticë	https://www.openstreetmap.org/node/4102800234</p>
 <p>Aleksandër Xhuvani	https://www.openstreetmap.org/node/1021093227</p>
 <p>Ali Pashë Gucia	https://www.openstreetmap.org/way/233494051</p>
 <p>Ali Pashë Tepelena	https://www.openstreetmap.org/way/300752634</p>
@@ -74,7 +75,6 @@
 <p>Beteja e Ivajës	https://www.openstreetmap.org/way/371621318</p>
 <p>Beteja e Kaçanikut	https://www.openstreetmap.org/way/371608156</p>
 <p>Beteja e Kosharës	https://www.openstreetmap.org/way/91852725</p>
-<p>Biblioteka Ndërkomunale &#34;Hivzi Sylejmani&#34;	https://www.openstreetmap.org/node/524264450</p>
 <p>Bicë	https://www.openstreetmap.org/node/3921781551</p>
 <p>Bijela česma	https://www.openstreetmap.org/node/3949625614</p>
 <p>Billushë	https://www.openstreetmap.org/node/1839601538</p>
@@ -291,6 +291,7 @@
 <p>Hamzë Ukaj	https://www.openstreetmap.org/way/172916307</p>
 <p>Hamëz Jashari	https://www.openstreetmap.org/way/387707259</p>
 <p>Hani i Haraqisë	https://www.openstreetmap.org/node/2315664105</p>
+<p>Hekurishtja MONİ	https://www.openstreetmap.org/node/4100856389</p>
 <p>Hekurudha Klina-Prizren /железничка пруга Клина - Призрен	https://www.openstreetmap.org/way/142937370</p>
 <p>Hekurudha Prishtinë - Fushë Kosovë	https://www.openstreetmap.org/way/195201001</p>
 <p>Hekurudha Prishtinë - Mitrovicë	https://www.openstreetmap.org/way/148226348</p>
@@ -352,7 +353,6 @@
 <p>Karashëngjergj	https://www.openstreetmap.org/node/1839757086</p>
 <p>Karaçevë e Epërme	https://www.openstreetmap.org/node/448569078</p>
 <p>Karaçevë e Ulët	https://www.openstreetmap.org/node/448733341</p>
-<p>Karađorđeva	https://www.openstreetmap.org/way/314426157</p>
 <p>Katedralja Krishti Shpëtimtar	https://www.openstreetmap.org/way/124951399</p>
 <p>Katedralja Nëna Terezë	https://www.openstreetmap.org/way/105555618</p>
 <p>Katun Bogićevica	https://www.openstreetmap.org/node/3949473997</p>
@@ -620,6 +620,7 @@
 <p>Pallati i Drejtësisë	https://www.openstreetmap.org/way/405720876</p>
 <p>Pallati i Kulturës &#34;Asim Vokshi&#34;	https://www.openstreetmap.org/way/221901050</p>
 <p>Paneli Zgjedhor për Ankesa dhe Parashtresa	https://www.openstreetmap.org/node/1699758869</p>
+<p>Pantinë	https://www.openstreetmap.org/node/4102800236</p>
 <p>Pančić ekspres	https://www.openstreetmap.org/way/44225629</p>
 <p>Parallovë	https://www.openstreetmap.org/node/4069098106</p>
 <p>Parkingu i Doganës	https://www.openstreetmap.org/way/147128513</p>
@@ -858,6 +859,7 @@
 <p>Shipashnicë e Poshtme	https://www.openstreetmap.org/node/612119483</p>
 <p>Shipitullë	https://www.openstreetmap.org/node/3859604125</p>
 <p>Shirokë	https://www.openstreetmap.org/node/448552104</p>
+<p>Shitaricë	https://www.openstreetmap.org/node/4102800237</p>
 <p>Shkallët e Dragodanit	https://www.openstreetmap.org/way/217583150</p>
 <p>Shkolla Fillore &#34;Abdyl Frashëri &#34;	https://www.openstreetmap.org/way/335718786</p>
 <p>Shkolla Fillore &#34;Bislim Imerii&#34; Kçiq i Madh	https://www.openstreetmap.org/way/163987561</p>
@@ -1099,6 +1101,7 @@
 <p>Vërboc	https://www.openstreetmap.org/node/2401263433</p>
 <p>Vërmica / Vrbnica	https://www.openstreetmap.org/node/1814307146</p>
 <p>Vërmicë	https://www.openstreetmap.org/node/3431449338</p>
+<p>Vërnicë	https://www.openstreetmap.org/node/4095381317</p>
 <p>Vërrini	https://www.openstreetmap.org/node/448562935</p>
 <p>Vërshec	https://www.openstreetmap.org/node/3421964474</p>
 <p>Vërtomicë	https://www.openstreetmap.org/node/3761573110</p>

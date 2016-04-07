@@ -5,6 +5,7 @@
 <p>Abrijë e poshtme	https://www.openstreetmap.org/node/4000356530</p>
 <p>Adžovića rijeka	https://www.openstreetmap.org/way/391067173</p>
 <p>Aeroporti Ndërkombëtar i Prishtinës &quot;Adem Jashari&quot;	https://www.openstreetmap.org/way/292210152</p>
+<p>Akrashticë	https://www.openstreetmap.org/node/4102800234</p>
 <p>Ambasada e Shteteve të Bashkurara në Prishtinë (në ndërtim)	https://www.openstreetmap.org/way/326453233</p>
 <p>Aqarevë	https://www.openstreetmap.org/node/4000356431</p>
 <p>Ardianët	https://www.openstreetmap.org/way/114681931</p>
@@ -83,6 +84,7 @@
 <p>Gurëz	https://www.openstreetmap.org/node/2107256277</p>
 <p>Halim Çaka	https://www.openstreetmap.org/way/395679475</p>
 <p>Hamëz Jashari	https://www.openstreetmap.org/way/387707259</p>
+<p>Hekurishtja MONİ	https://www.openstreetmap.org/node/4100856389</p>
 <p>Hekurudha Prishtinë - Fushë Kosovë	https://www.openstreetmap.org/way/195201001</p>
 <p>Hekurudha Prishtinë - Nish	https://www.openstreetmap.org/way/243035857</p>
 <p>Hodžin ravan	https://www.openstreetmap.org/way/391712699</p>
@@ -121,6 +123,7 @@
 <p>Komuna e Kaçanikut	https://www.openstreetmap.org/relation/1332180</p>
 <p>Komuna e Pejës	https://www.openstreetmap.org/relation/1332187</p>
 <p>Komuna e Podujevës	https://www.openstreetmap.org/relation/1332182</p>
+<p>Komuna e Prishtinës	https://www.openstreetmap.org/way/266702166</p>
 <p>Komuna e Vitisë	https://www.openstreetmap.org/relation/1332194</p>
 <p>Korni škal kuće	https://www.openstreetmap.org/node/3955775251</p>
 <p>Korporata Energjetike e Kosovës	https://www.openstreetmap.org/way/195201002</p>
@@ -195,6 +198,7 @@
 <p>Opština Rožaje	https://www.openstreetmap.org/relation/2317936</p>
 <p>Paddy O´Briens Pub	https://www.openstreetmap.org/way/125540950</p>
 <p>Pallati i Drejtësisë	https://www.openstreetmap.org/way/405720876</p>
+<p>Pantinë	https://www.openstreetmap.org/node/4102800236</p>
 <p>Parallovë	https://www.openstreetmap.org/node/4069098106</p>
 <p>Parku , Kaçanik	https://www.openstreetmap.org/node/3908315435</p>
 <p>Parku Kombëtar &quot;Bjeshkët e Nemuna të Kosovës&quot;	https://www.openstreetmap.org/way/377710168</p>
@@ -256,6 +260,7 @@
 <p>Sfarçak i Poshtëm	https://www.openstreetmap.org/node/3901240280</p>
 <p>Shakovicë	https://www.openstreetmap.org/node/4081920166</p>
 <p>Sheshi i Lirisë	https://www.openstreetmap.org/way/143497245</p>
+<p>Shitaricë	https://www.openstreetmap.org/node/4102800237</p>
 <p>Shkolla Fillore &quot;Dëshmorët e Bobit&quot;	https://www.openstreetmap.org/way/372127516</p>
 <p>Shkolla Fillore &quot;Shkëndija&quot;	https://www.openstreetmap.org/way/404360221</p>
 <p>Shkugëz	https://www.openstreetmap.org/way/97192369</p>
