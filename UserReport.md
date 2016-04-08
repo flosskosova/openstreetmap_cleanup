@@ -16,6 +16,7 @@
       1 "enco" changeset
       1 "faikberisha" changeset
       1 "Ferati11" changeset
+      1 "FidanB" changeset
       1 "flakron" changeset
       1 "Gjagji" changeset
       1 "Janjko" changeset
@@ -139,7 +140,6 @@
      16 "pitscheplatsch" changeset
      16 "Константин Коцев" changeset
      17 "Amaroussi" changeset
-     17 "SuhelAhmeti" changeset
      19 "JayCBR" changeset
      19 "NJAZI RAMADANI" changeset
      19 "ruph" changeset
@@ -151,13 +151,14 @@
      26 "Wikidata" changeset
      28 "Lekos" changeset
      29 "rando67" changeset
-     30 "James Michael DuPont" changeset
      30 "SomeoneElse" changeset
      31 "Arpagjiki" changeset
      31 "borces" changeset
+     33 "SuhelAhmeti" changeset
      38 "woodpeck_repair" changeset
      39 "blerim basha" changeset
      41 "srividya_c" changeset
+     43 "James Michael DuPont" changeset
      45 "landfahrer" changeset
      45 "msylka" changeset
      45 "xperiamuslim" changeset
@@ -195,8 +196,8 @@
     486 "enis" changeset
     546 "mpele" changeset
     566 "bigalxyz123" changeset
-    630 "Arianit" changeset
     651 "yfrtx" changeset
+    677 "Arianit" changeset
     679 "arhijakon" changeset
     993 "Yll Ferizi" changeset
    1016 "pyram" changeset

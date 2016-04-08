@@ -46,12 +46,14 @@
 <p>Dardanët	https://www.openstreetmap.org/way/393051599</p>
 <p>Dedë Gjoluli	https://www.openstreetmap.org/way/114669231</p>
 <p>Dejnë	https://www.openstreetmap.org/node/4050246603</p>
+<p>Departamenti për Shtetësi, Azil dhe Migracion	https://www.openstreetmap.org/node/2164150691</p>
 <p>Desivojcë	https://www.openstreetmap.org/node/3996017557</p>
 <p>Deçan	https://www.openstreetmap.org/node/1839805748</p>
 <p>Dheu i Bardhë	https://www.openstreetmap.org/way/389447074</p>
 <p>Dikancë	https://www.openstreetmap.org/node/453335053</p>
 <p>Dobratinë	https://www.openstreetmap.org/node/371547325</p>
 <p>Dollovë	https://www.openstreetmap.org/node/3924380397</p>
+<p>Drejtoria e Përgjithshme e Policisë	https://www.openstreetmap.org/node/2185508852</p>
 <p>Drini i Bardhë	https://www.openstreetmap.org/way/172322841</p>
 <p>Dubova e Vogël	https://www.openstreetmap.org/node/3930684694</p>
 <p>Dubovički stanovi	https://www.openstreetmap.org/node/3955834713</p>
@@ -218,6 +220,7 @@
 <p>Plehnistë	https://www.openstreetmap.org/node/1974025449</p>
 <p>Podujevë	https://www.openstreetmap.org/node/299447753</p>
 <p>Pojatishtë	https://www.openstreetmap.org/node/4058704237</p>
+<p>Policia Rajonale e Prishtinës	https://www.openstreetmap.org/node/2164150698</p>
 <p>Posta e Gracanicës	https://www.openstreetmap.org/way/314343212</p>
 <p>Posta e Kosovës	https://www.openstreetmap.org/way/389563892</p>
 <p>Posta&amp;Telekomi i Kosovës-ptk	https://www.openstreetmap.org/way/373792603</p>
@@ -273,6 +276,7 @@
 <p>Shtrazë	https://www.openstreetmap.org/node/3607215654</p>
 <p>Shtupeq i Vogël	https://www.openstreetmap.org/node/3563266304</p>
 <p>Shtëpia e Kulturës  Xheladin Kurtaj	https://www.openstreetmap.org/way/372619134</p>
+<p>Shtëpia e Pavarësisë	https://www.openstreetmap.org/way/259076101</p>
 <p>Shtëpia e Shpresës	https://www.openstreetmap.org/way/372129234</p>
 <p>Shushicë	https://www.openstreetmap.org/node/352997418</p>
 <p>Shushtë	https://www.openstreetmap.org/node/3958560467</p>
