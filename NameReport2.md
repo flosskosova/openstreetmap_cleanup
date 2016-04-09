@@ -6,6 +6,8 @@
 <p>Adžovića rijeka	https://www.openstreetmap.org/way/391067173</p>
 <p>Aeroporti Ndërkombëtar i Prishtinës &quot;Adem Jashari&quot;	https://www.openstreetmap.org/way/292210152</p>
 <p>Akrashticë	https://www.openstreetmap.org/node/4102800234</p>
+<p>Ambasada e Francës	https://www.openstreetmap.org/node/2187298297</p>
+<p>Ambasada e Rumanisë	https://www.openstreetmap.org/node/2187298298</p>
 <p>Ambasada e Shteteve të Bashkurara në Prishtinë (në ndërtim)	https://www.openstreetmap.org/way/326453233</p>
 <p>Aqarevë	https://www.openstreetmap.org/node/4000356431</p>
 <p>Ardianët	https://www.openstreetmap.org/way/114681931</p>
@@ -233,11 +235,13 @@
 <p>Pus i Škalt	https://www.openstreetmap.org/node/3941866842</p>
 <p>Përroi i Njelmët	https://www.openstreetmap.org/node/3905206877</p>
 <p>Pčelji krš	https://www.openstreetmap.org/node/3853938815</p>
+<p>Qendra e Shëndetit Familjar - Arbëri	https://www.openstreetmap.org/way/408713635</p>
 <p>Qerdhja për fëmijë &quot;Gezimi Yne&quot;	https://www.openstreetmap.org/node/1213666992</p>
 <p>Qeveria e Kosovës	https://www.openstreetmap.org/way/125485840</p>
 <p>Rahishtë	https://www.openstreetmap.org/node/4058684877</p>
 <p>Reka e Novosellës	https://www.openstreetmap.org/way/252246147</p>
 <p>Republika e Kosovës	https://www.openstreetmap.org/relation/2088990</p>
+<p>Rezidenca e Austrisë	https://www.openstreetmap.org/node/2187298308</p>
 <p>Rezidenca Çaka	https://www.openstreetmap.org/node/3756760674</p>
 <p>Ropicë	https://www.openstreetmap.org/node/3900599930</p>
 <p>Rruga &quot;UÇK&quot;	https://www.openstreetmap.org/way/406003031</p>
@@ -264,6 +268,7 @@
 <p>Shakovicë	https://www.openstreetmap.org/node/4081920166</p>
 <p>Sheshi i Lirisë	https://www.openstreetmap.org/way/143497245</p>
 <p>Shitaricë	https://www.openstreetmap.org/node/4102800237</p>
+<p>Shkallët e Arbërisë	https://www.openstreetmap.org/way/217583150</p>
 <p>Shkolla Fillore &quot;Dëshmorët e Bobit&quot;	https://www.openstreetmap.org/way/372127516</p>
 <p>Shkolla Fillore &quot;Shkëndija&quot;	https://www.openstreetmap.org/way/404360221</p>
 <p>Shkugëz	https://www.openstreetmap.org/way/97192369</p>
@@ -354,6 +359,7 @@
 <p>Zhdredhë	https://www.openstreetmap.org/node/3924380406</p>
 <p>Zveçan	https://www.openstreetmap.org/node/1907401314</p>
 <p>Zylfi Çaka	https://www.openstreetmap.org/way/371634875</p>
+<p>Zyra e Greqisë	https://www.openstreetmap.org/node/2187298311</p>
 <p>Zëri i Atdheut	https://www.openstreetmap.org/way/389449274</p>
 <p>ÇLIRIMI	https://www.openstreetmap.org/way/281949449</p>
 <p>Çagllavicë	https://www.openstreetmap.org/node/2333692377</p>
